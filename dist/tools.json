@@ -1,0 +1,3200 @@
+[
+  {
+    "name": "Tooooools",
+    "url": "https://www.tooooools.app/",
+    "description": "Filtros modulares para transformar imágenes: ASCII, dithering, puntos, tramas y otras técnicas.",
+    "tags": "Filtros · Web",
+    "category": "imagen",
+    "note": "",
+    "id": "tool-001",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Efectos"
+    ],
+    "media": [
+      "Imagen",
+      "Video"
+    ],
+    "connections": [],
+    "price_source": "https://www.tooooools.app/",
+    "price_note": "Gratis para uso personal y comercial. Los aportes de los supporters son voluntarios.",
+    "access_checked": "2026-10-06",
+    "image": {
+      "path": "images/tool-001.webp",
+      "source_url": "https://www.tooooools.app/",
+      "original_url": "https://www.tooooools.app/open-graph.jpg",
+      "type": "official_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 630
+    },
+    "paco_favorite": true,
+    "capabilities": [
+      "ASCII",
+      "dithering",
+      "punteado",
+      "tramas",
+      "puntos",
+      "patrones",
+      "contornos",
+      "deformación",
+      "desplazamiento",
+      "recolor",
+      "CRT",
+      "gradientes",
+      "autómatas celulares",
+      "stippling",
+      "dots",
+      "edge",
+      "distort",
+      "displace",
+      "bevel",
+      "scatter"
+    ],
+    "search_terms": [
+      "convertir imagen en texto",
+      "arte con caracteres",
+      "hacer imágenes con puntos",
+      "semitonos",
+      "dither",
+      "pixelar",
+      "text art"
+    ],
+    "capability_sources": [
+      {
+        "url": "https://www.tooooools.app/effects/ascii",
+        "checked": "2026-10-05",
+        "capabilities": [
+          "ASCII",
+          "dithering",
+          "punteado",
+          "tramas",
+          "puntos",
+          "patrones",
+          "contornos",
+          "deformación",
+          "desplazamiento",
+          "recolor",
+          "CRT",
+          "gradientes",
+          "autómatas celulares",
+          "stippling",
+          "dots",
+          "edge",
+          "distort",
+          "displace",
+          "bevel",
+          "scatter"
+        ]
+      }
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://www.tooooools.app/",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "Grainrad",
+    "url": "https://grainrad.com/",
+    "description": "Transforma imágenes y videos con ASCII, dithering, semitonos, pixel sorting y otros efectos.",
+    "tags": "Filtros · Web",
+    "category": "imagen",
+    "note": "Parecida a Tooooools.",
+    "id": "tool-002",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Efectos"
+    ],
+    "media": [
+      "Imagen",
+      "Video"
+    ],
+    "connections": [],
+    "price_source": "https://grainrad.com/about",
+    "price_note": "Herramienta gratuita, sin registro ni niveles de pago, según su página About.",
+    "access_checked": "2026-10-06",
+    "image": {
+      "path": "images/tool-002.webp",
+      "source_url": "https://grainrad.com/",
+      "original_url": "https://grainrad.com/preview_thu.png",
+      "type": "official_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 630
+    },
+    "paco_favorite": true,
+    "capabilities": [
+      "ASCII",
+      "dithering",
+      "halftone",
+      "tramas",
+      "Matrix Rain",
+      "puntos",
+      "contornos",
+      "pixel sorting",
+      "pixel sort",
+      "pixelado",
+      "umbral",
+      "detección de bordes",
+      "rayado",
+      "líneas onduladas",
+      "ruido",
+      "Voronoi",
+      "VHS"
+    ],
+    "search_terms": [
+      "convertir imagen en texto",
+      "convertir video en texto",
+      "arte con caracteres",
+      "semitonos",
+      "dither",
+      "pixelar",
+      "text art"
+    ],
+    "capability_sources": [
+      {
+        "url": "https://www.grainrad.com/",
+        "checked": "2026-10-05",
+        "capabilities": [
+          "ASCII",
+          "dithering",
+          "halftone",
+          "tramas",
+          "Matrix Rain",
+          "puntos",
+          "contornos",
+          "pixel sorting",
+          "pixel sort",
+          "pixelado",
+          "umbral",
+          "detección de bordes",
+          "rayado",
+          "líneas onduladas",
+          "ruido",
+          "Voronoi",
+          "VHS"
+        ]
+      }
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://grainrad.com/",
+      "status": "reachable"
+    }
+  },
+  {
+    "id": "tool-060",
+    "name": "Shaders",
+    "url": "https://shaders.com/",
+    "description": "Editor visual para combinar shaders y crear efectos interactivos: ASCII, glitch, tramas, gradientes, partículas y distorsiones. Incluye componentes para integrar los resultados en webs.",
+    "tags": "Shaders · Web",
+    "category": "imagen",
+    "note": "",
+    "access": [
+      "Freemium"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Editor",
+      "Efectos",
+      "Generador"
+    ],
+    "media": [
+      "Imagen",
+      "Web",
+      "Código"
+    ],
+    "connections": [
+      "React",
+      "Vue",
+      "Svelte",
+      "JavaScript"
+    ],
+    "price_source": "https://shaders.com/pricing",
+    "price_note": "Editor, componentes abiertos y exportación de código gratis. Pro añade presets, secciones y exportaciones de alta calidad.",
+    "access_checked": "2026-10-06",
+    "paco_favorite": true,
+    "capabilities": [
+      "shaders",
+      "ASCII",
+      "glitch",
+      "dithering",
+      "semitonos",
+      "tramas",
+      "gradientes",
+      "partículas",
+      "distorsión",
+      "efectos interactivos",
+      "WebGPU"
+    ],
+    "search_terms": [
+      "efectos visuales",
+      "fondos animados",
+      "filtros",
+      "arte con caracteres",
+      "halftone",
+      "generar texturas",
+      "animación web"
+    ],
+    "description_sources": [
+      "https://shaders.com/"
+    ],
+    "description_checked": "2026-10-06",
+    "image": {
+      "path": "images/tool-060.webp",
+      "source_url": "https://shaders.com/",
+      "original_url": "https://shaders.com/og.jpg",
+      "type": "official_preview",
+      "label": "Presentación oficial del editor de Shaders",
+      "width": 3414,
+      "height": 1708
+    }
+  },
+  {
+    "name": "PhotoMosh / Mosh-Lite",
+    "url": "https://moshpro.app/lite/",
+    "description": "Mezcla efectos glitch en tiempo real sobre imágenes, videos o la webcam, y exporta el resultado.",
+    "tags": "Glitch · Web",
+    "category": "imagen",
+    "note": "Mosh-Lite es la versión web; Mosh-Pro es una aplicación de escritorio de pago.",
+    "id": "tool-003",
+    "access": [
+      "Freemium"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Efectos"
+    ],
+    "media": [
+      "Imagen",
+      "Video"
+    ],
+    "connections": [],
+    "price_source": "https://moshpro.app/lite/",
+    "price_note": "La versión web Mosh-Lite es gratis; Mosh-Pro es de pago.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-003.webp",
+      "source_url": "https://moviemaker.minitool.com/moviemaker/glitch-photo-editor.html",
+      "original_url": "https://images.minitool.com/moviemaker.minitool.com/images/uploads/articles/2021/07/glitch-photo-editor/glitch-photo-editor-2.jpg",
+      "type": "third_party_screenshot",
+      "label": "Captura de referencia",
+      "width": 828,
+      "height": 443
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "glitch",
+      "efectos en imágenes y videos"
+    ],
+    "search_terms": [
+      "interferencias digitales",
+      "distorsionar imagen",
+      "distorsionar video"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://moshpro.app/lite/",
+      "status": "reachable"
+    },
+    "description_sources": [
+      "https://moshpro.app/lite/"
+    ],
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "Marbling tool",
+    "url": "https://marbling.afterimage.cc/",
+    "description": "Simula marmoleado con gotas de tinta y deformaciones líquidas; permite intervenir imágenes.",
+    "tags": "Distorsión · Web",
+    "category": "imagen",
+    "note": "",
+    "id": "tool-004",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Editor",
+      "Efectos"
+    ],
+    "media": [
+      "Imagen"
+    ],
+    "connections": [],
+    "price_source": "https://marbling.afterimage.cc/",
+    "price_note": "Acceso sin costo al recurso enlazado; las condiciones de uso se consultan en la fuente.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-004.webp",
+      "source_url": "https://afterimage.cc/tools/",
+      "original_url": "https://afterimage.cc/tools/img/marbling_1.png",
+      "type": "official_example",
+      "label": "Ejemplo de uso",
+      "width": 1000,
+      "height": 1000
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "marmoleado",
+      "deformación orgánica",
+      "marbling"
+    ],
+    "search_terms": [
+      "marmol",
+      "deformar imagen",
+      "efecto líquido",
+      "marmolear",
+      "distorsionar imagen"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://marbling.afterimage.cc/",
+      "status": "reachable"
+    },
+    "description_sources": [
+      "https://afterimage.cc/tools/"
+    ],
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "Gradientor",
+    "url": "https://gradientor.afterimage.cc/",
+    "description": "Dibuja con gradientes y formas SVG; ajusta grano y sobreimpresión para crear composiciones.",
+    "tags": "Gradientes · Web",
+    "category": "imagen",
+    "note": "Exporta PNG y separaciones para risografía. Podés crear los SVG en Illustrator.",
+    "id": "tool-005",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Generador"
+    ],
+    "media": [
+      "Imagen"
+    ],
+    "connections": [
+      "SVG"
+    ],
+    "price_source": "https://gradientor.afterimage.cc/",
+    "price_note": "Acceso sin costo al recurso enlazado; las condiciones de uso se consultan en la fuente.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-005.webp",
+      "source_url": "https://afterimage.cc/tools/",
+      "original_url": "https://afterimage.cc/tools/img/gradientor_v1.png",
+      "type": "official_preview",
+      "label": "Presentación oficial",
+      "width": 999,
+      "height": 1000
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "dibujo con gradientes",
+      "formas SVG",
+      "grano",
+      "sobreimpresión",
+      "risografía"
+    ],
+    "search_terms": [
+      "crear gradientes",
+      "generar degradados",
+      "dibujar degradados",
+      "importar SVG",
+      "riso",
+      "overprint"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://gradientor.afterimage.cc/",
+      "status": "reachable"
+    },
+    "description_sources": [
+      "https://gradientor.afterimage.cc/",
+      "https://afterimage.cc/tools/"
+    ],
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "Pixel Sorter",
+    "url": "https://pixel-sorter.com/",
+    "description": "Glitch por ordenamiento de píxeles: arrastres, franjas y lluvia digital.",
+    "tags": "Glitch · Web",
+    "category": "imagen",
+    "note": "",
+    "id": "tool-006",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Efectos"
+    ],
+    "media": [
+      "Imagen"
+    ],
+    "connections": [],
+    "price_source": "https://pixel-sorter.com/",
+    "price_note": "Consultá las condiciones de uso y acceso en la fuente.",
+    "access_checked": "2026-10-05",
+    "image": {
+      "path": "images/tool-006.webp",
+      "source_url": "https://pixel-sorter.com/",
+      "original_url": "https://pixel-sorter.com/showcase/starrynight.png",
+      "type": "official_preview",
+      "label": "Presentación oficial",
+      "width": 1199,
+      "height": 950
+    },
+    "paco_favorite": true,
+    "capabilities": [
+      "pixel sorting",
+      "ordenamiento de píxeles",
+      "glitch"
+    ],
+    "search_terms": [
+      "ordenar píxeles",
+      "arrastrar píxeles",
+      "lluvia de píxeles",
+      "pixel sorter"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://pixel-sorter.com/",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "Colir",
+    "url": "https://colir.space/",
+    "description": "Gradientes editables con curvas y efectos.",
+    "tags": "Color · Web",
+    "category": "imagen",
+    "note": "",
+    "id": "tool-007",
+    "access": [
+      "Freemium"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Generador",
+      "Editor"
+    ],
+    "media": [
+      "Imagen"
+    ],
+    "connections": [
+      "Figma",
+      "PNG",
+      "WebP"
+    ],
+    "price_source": "https://colir.space/#pricing",
+    "price_note": "El plan gratis es para uso personal y tiene límites. El uso comercial requiere Pro.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-007.webp",
+      "source_url": "https://colir.space/",
+      "original_url": "https://colir.space/Templates/OG_colir.png",
+      "type": "official_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 630
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "gradientes editables",
+      "curvas de color"
+    ],
+    "search_terms": [
+      "crear gradientes",
+      "generar degradados"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://colir.space/",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "Tech Collage",
+    "url": "https://tech-collage-cyan.vercel.app/",
+    "description": "Combina imágenes con marcas técnicas, tramas de semitonos, collage en grilla y efectos glitch; exporta SVG o PNG.",
+    "tags": "Collage · Web",
+    "category": "imagen",
+    "note": "",
+    "id": "tool-008",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Editor",
+      "Generador"
+    ],
+    "media": [
+      "Imagen"
+    ],
+    "connections": [
+      "SVG",
+      "PNG"
+    ],
+    "price_source": "https://tech-collage-cyan.vercel.app/",
+    "price_note": "Consultá las condiciones de uso y acceso en la fuente.",
+    "access_checked": "2026-10-05",
+    "image": {
+      "path": "images/tool-008.webp",
+      "source_url": "https://tech-collage-cyan.vercel.app/",
+      "original_url": "",
+      "type": "live_screenshot",
+      "label": "Captura de referencia",
+      "width": 1200,
+      "height": 824
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "collage",
+      "superposición gráfica",
+      "patrones",
+      "halftone",
+      "semitonos",
+      "glitch",
+      "duotono"
+    ],
+    "search_terms": [
+      "superponer gráficos sobre imagen",
+      "hacer collage"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://tech-collage-cyan.vercel.app/",
+      "status": "reachable"
+    },
+    "description_sources": [
+      "https://tech-collage-cyan.vercel.app/"
+    ],
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "Logo Dot — Oleg Coada",
+    "url": "https://logo-dot-oleg-coada.vercel.app/",
+    "description": "Reconstruye logos SVG con círculos. Permite ajustar densidad, tamaño, contorno y paleta.",
+    "tags": "Experimento · Web",
+    "category": "imagen",
+    "note": "",
+    "id": "tool-009",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Editor",
+      "Generador"
+    ],
+    "media": [
+      "Imagen"
+    ],
+    "connections": [
+      "SVG",
+      "PNG"
+    ],
+    "price_source": "https://logo-dot-oleg-coada.vercel.app/",
+    "price_note": "Consultá las condiciones de uso y acceso en la fuente.",
+    "access_checked": "2026-10-05",
+    "image": {
+      "path": "images/tool-009.webp",
+      "source_url": "https://logo-dot-oleg-coada.vercel.app/",
+      "original_url": "",
+      "type": "live_screenshot",
+      "label": "Captura de referencia",
+      "width": 1200,
+      "height": 824
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "logos con puntos",
+      "círculos",
+      "tramas de puntos"
+    ],
+    "search_terms": [
+      "convertir logo en puntos",
+      "convertir SVG en círculos"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://logo-dot-oleg-coada.vercel.app/",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "Cloud Canvas",
+    "url": "https://image-cloud-canvas.vercel.app/image-cloud-canvas.html",
+    "description": "Compone nubes de imágenes con profundidad, rotación e inercia; exporta la vista como PNG o JPEG.",
+    "tags": "Experimento · Web",
+    "category": "imagen",
+    "note": "",
+    "id": "tool-010",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Editor"
+    ],
+    "media": [
+      "Imagen",
+      "3D"
+    ],
+    "connections": [],
+    "price_source": "https://image-cloud-canvas.vercel.app/image-cloud-canvas.html",
+    "price_note": "Consultá las condiciones de uso y acceso en la fuente.",
+    "access_checked": "2026-10-05",
+    "image": {
+      "path": "images/tool-010.webp",
+      "source_url": "https://image-cloud-canvas.vercel.app/image-cloud-canvas.html",
+      "original_url": "https://image-cloud-canvas.vercel.app/image-cloud-canvas.html",
+      "type": "actual_tool_screenshot",
+      "label": "Captura de referencia",
+      "width": 1200,
+      "height": 824
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "nube de imágenes",
+      "profundidad",
+      "rotación"
+    ],
+    "search_terms": [
+      "organizar fotos con profundidad",
+      "galería espacial"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://image-cloud-canvas.vercel.app/image-cloud-canvas.html",
+      "status": "reachable"
+    },
+    "description_sources": [
+      "https://image-cloud-canvas.vercel.app/image-cloud-canvas.html",
+      "https://amirmushich.com/lab/"
+    ],
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "Brand Generator",
+    "url": "https://brand-generator.stoyanov.works/",
+    "description": "Genera composiciones de marca combinando imágenes, círculos, formas geométricas y dibujos.",
+    "tags": "Composición · Web",
+    "category": "imagen",
+    "note": "",
+    "id": "tool-011",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Editor"
+    ],
+    "media": [
+      "Imagen"
+    ],
+    "connections": [],
+    "price_source": "https://brand-generator.stoyanov.works/",
+    "price_note": "Consultá las condiciones de uso y acceso en la fuente.",
+    "access_checked": "2026-10-05",
+    "image": {
+      "path": "images/tool-011.webp",
+      "source_url": "https://brand-generator.stoyanov.works/",
+      "original_url": "https://brand-generator.stoyanov.works/",
+      "type": "live_ui_screenshot",
+      "label": "Captura de referencia",
+      "width": 1200,
+      "height": 824
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "composición de imágenes",
+      "gráficos geométricos",
+      "dibujo",
+      "circle mapping"
+    ],
+    "search_terms": [
+      "superponer gráficos sobre imagen",
+      "hacer collage"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://brand-generator.stoyanov.works/",
+      "status": "reachable"
+    },
+    "description_sources": [
+      "https://brand-generator.stoyanov.works/"
+    ],
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "TIV",
+    "url": "https://t-iv.com/",
+    "description": "Simula efectos ópticos sobre una imagen: profundidad de campo, bokeh, exposición y aberración cromática.",
+    "tags": "Cámara · Web",
+    "category": "imagen",
+    "note": "",
+    "id": "tool-012",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Efectos",
+      "Simulación"
+    ],
+    "media": [
+      "Imagen"
+    ],
+    "connections": [
+      "PNG"
+    ],
+    "price_source": "https://t-iv.com/",
+    "price_note": "Consultá las condiciones de uso y acceso en la fuente.",
+    "access_checked": "2026-10-05",
+    "image": {
+      "path": "images/tool-012.webp",
+      "source_url": "https://t-iv.com/",
+      "original_url": "https://t-iv.com/opengraph-image.png?54c079391784d732",
+      "type": "official_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 630
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "bokeh",
+      "profundidad de campo",
+      "aberración cromática"
+    ],
+    "search_terms": [
+      "simular cámara",
+      "desenfoque",
+      "blur",
+      "efecto de lente"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://t-iv.com/",
+      "status": "reachable"
+    },
+    "description_sources": [
+      "https://t-iv.com/"
+    ],
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "Clipdrop",
+    "url": "https://clipdrop.co/",
+    "description": "Herramientas de IA para quitar fondos y objetos, ampliar imágenes, cambiar la iluminación y retocar fotos.",
+    "tags": "Edición · Web",
+    "category": "imagen",
+    "note": "",
+    "id": "tool-013",
+    "access": [
+      "Freemium"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Editor",
+      "IA"
+    ],
+    "media": [
+      "Imagen"
+    ],
+    "connections": [],
+    "price_source": "https://clipdrop.co/pricing",
+    "price_note": "Hay acceso gratuito y funciones o planes de pago.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-013.webp",
+      "source_url": "https://clipdrop.co/",
+      "original_url": "https://assets.reactbricks.com/G-dH90DZVcB0SiT/images/original/Lxv-0lCYYQgvMU7.webp",
+      "type": "official_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 630
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "quitar fondos",
+      "eliminar objetos",
+      "ampliar imágenes",
+      "relight",
+      "uncrop",
+      "retoque con IA"
+    ],
+    "search_terms": [
+      "editar fotos",
+      "modificar imagen",
+      "retoque",
+      "remove background",
+      "quitar fondo",
+      "borrar objetos",
+      "upscale",
+      "agrandar imagen",
+      "reiluminar",
+      "expandir imagen"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://clipdrop.co/",
+      "status": "reachable"
+    },
+    "description_sources": [
+      "https://clipdrop.co/"
+    ],
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "Hydra",
+    "url": "https://hydra.ojack.xyz/",
+    "description": "Entorno de código para crear visuales, filtros y patrones en tiempo real.",
+    "tags": "Live coding · Web",
+    "category": "generativo",
+    "note": "",
+    "id": "tool-014",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Generador",
+      "Código"
+    ],
+    "media": [
+      "Imagen",
+      "Video"
+    ],
+    "connections": [],
+    "price_source": "https://hydra.ojack.xyz/",
+    "price_note": "Acceso sin costo al recurso enlazado; las condiciones de uso se consultan en la fuente.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-014.webp",
+      "source_url": "https://hydra.ojack.xyz/",
+      "original_url": "https://hydra.ojack.xyz/images/hydra-landing.png",
+      "type": "official_preview",
+      "label": "Presentación oficial",
+      "width": 1158,
+      "height": 767
+    },
+    "paco_favorite": true,
+    "capabilities": [
+      "visuales en tiempo real",
+      "patrones con código"
+    ],
+    "search_terms": [
+      "generar patrones",
+      "live coding",
+      "programar visuales"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://hydra.ojack.xyz/",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "OpenProcessing",
+    "url": "https://openprocessing.org/discover/#/trending",
+    "description": "Editor y comunidad de código creativo para crear, compartir y explorar sketches visuales.",
+    "tags": "Código creativo · Web",
+    "category": "generativo",
+    "note": "",
+    "id": "tool-015",
+    "access": [
+      "Freemium"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Directorio",
+      "Código"
+    ],
+    "media": [
+      "Imagen",
+      "Código"
+    ],
+    "connections": [],
+    "price_source": "https://openprocessing.org/discover/#/trending",
+    "price_note": "Hay acceso gratuito y funciones o planes de pago.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-015.webp",
+      "source_url": "https://intercom.help/openprocessing/en/articles/3003087-using-code-history-to-rollback-code",
+      "original_url": "https://i.vimeocdn.com/video/784776548-aeb266fd68756a2f910f9faf3b791e2be2ee232578a441f76083ca2f9af03858-d?f=webp",
+      "type": "existing_screenshot",
+      "label": "Captura de referencia",
+      "width": 778,
+      "height": 498
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "arte generativo",
+      "experimentos con código"
+    ],
+    "search_terms": [
+      "referencias de código creativo",
+      "creative coding"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://openprocessing.org/discover/#/trending",
+      "status": "reachable"
+    },
+    "description_sources": [
+      "https://openprocessing.org/discover/"
+    ],
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "CodePen",
+    "url": "https://codepen.io/",
+    "description": "Plataforma para descubrir y probar experimentos hechos con código web.",
+    "tags": "Código creativo · Web",
+    "category": "generativo",
+    "note": "",
+    "id": "tool-016",
+    "access": [
+      "Freemium"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Editor",
+      "Directorio",
+      "Código"
+    ],
+    "media": [
+      "Web",
+      "Código"
+    ],
+    "connections": [
+      "HTML / CSS"
+    ],
+    "price_source": "https://codepen.io/accounts/signup/user/free",
+    "price_note": "Plan gratuito; algunas funciones requieren Pro.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-016.webp",
+      "source_url": "https://www.getapp.es/software/2047055/codepen",
+      "original_url": "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/c3595f33-1f16-457a-accf-6af54a76197f.png?auto=format&q=50",
+      "type": "existing_screenshot",
+      "label": "Captura de referencia",
+      "width": 1200,
+      "height": 812
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "experimentos web",
+      "código web"
+    ],
+    "search_terms": [
+      "HTML CSS JavaScript",
+      "referencias de código creativo"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 403,
+      "final_url": "https://codepen.io/",
+      "status": "restricted"
+    }
+  },
+  {
+    "name": "Reaction-Diffusion Playground",
+    "url": "https://jasonwebb.github.io/reaction-diffusion-playground/app.html",
+    "description": "Generador de patrones de Turing mediante reacción y difusión.",
+    "tags": "Simulación · Web",
+    "category": "generativo",
+    "note": "",
+    "id": "tool-017",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Generador",
+      "Simulación"
+    ],
+    "media": [
+      "Imagen"
+    ],
+    "connections": [],
+    "price_source": "https://jasonwebb.github.io/reaction-diffusion-playground/app.html",
+    "price_note": "Acceso sin costo al recurso enlazado; las condiciones de uso se consultan en la fuente.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-017.webp",
+      "source_url": "https://jasonwebb.github.io/reaction-diffusion-playground/app.html",
+      "original_url": "https://raw.githubusercontent.com/jasonwebb/reaction-diffusion-playground/master/images/social-media-preview.jpg",
+      "type": "official_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 628
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "reacción difusión",
+      "patrones de Turing"
+    ],
+    "search_terms": [
+      "generar patrones orgánicos",
+      "reaction diffusion"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://jasonwebb.github.io/reaction-diffusion-playground/app.html",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "Tiles",
+    "url": "https://james.js.org/tiles/",
+    "description": "Patrones animados para explorar con controles de forma, color y movimiento.",
+    "tags": "Patrones · Web",
+    "category": "generativo",
+    "note": "",
+    "id": "tool-018",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Generador"
+    ],
+    "media": [
+      "Imagen",
+      "Video"
+    ],
+    "connections": [],
+    "price_source": "https://james.js.org/tiles/",
+    "price_note": "Acceso sin costo al recurso enlazado; las condiciones de uso se consultan en la fuente.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-018.webp",
+      "source_url": "https://james.js.org/tiles.html",
+      "original_url": "https://james.js.org/img/tiles/tiles1.png",
+      "type": "official_tool_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 713
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "patrones animados",
+      "formas y color"
+    ],
+    "search_terms": [
+      "generar patrones",
+      "animar patrones"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://james.js.org/tiles/",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "Spiral Art Maker",
+    "url": "https://codepen.io/davidpanik/full/myMrLx",
+    "description": "Generador de dibujos en espiral alojado en CodePen.",
+    "tags": "Generativo · Web",
+    "category": "generativo",
+    "note": "",
+    "id": "tool-019",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Generador"
+    ],
+    "media": [
+      "Imagen"
+    ],
+    "connections": [],
+    "price_source": "https://codepen.io/davidpanik/full/myMrLx",
+    "price_note": "Acceso sin costo al recurso enlazado; las condiciones de uso se consultan en la fuente.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-019.webp",
+      "source_url": "https://codepen.io/davidpanik/full/myMrLx",
+      "original_url": "https://codepen.io/davidpanik/full/myMrLx",
+      "type": "actual_tool_screenshot",
+      "label": "Captura de referencia",
+      "width": 1200,
+      "height": 824
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "espirales"
+    ],
+    "search_terms": [
+      "generar espirales",
+      "spiral"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 403,
+      "final_url": "https://codepen.io/davidpanik/full/myMrLx",
+      "status": "restricted"
+    },
+    "description_sources": [
+      "https://codepen.io/davidpanik/full/myMrLx"
+    ],
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "Neon",
+    "url": "https://neon.muffinman.io/#/false/16/10/50/50/200/5/tue61qck7ol/p7hbf02n7bh/9vl6ll7a7ig",
+    "description": "Genera dibujos de líneas luminosas con campos vectoriales; ajustá parámetros y descargá las imágenes.",
+    "tags": "Generativo · Web",
+    "category": "generativo",
+    "note": "",
+    "id": "tool-020",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Generador"
+    ],
+    "media": [
+      "Imagen"
+    ],
+    "connections": [],
+    "price_source": "https://neon.muffinman.io/#/false/16/10/50/50/200/5/tue61qck7ol/p7hbf02n7bh/9vl6ll7a7ig",
+    "price_note": "Acceso sin costo al recurso enlazado; las condiciones de uso se consultan en la fuente.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-020.webp",
+      "source_url": "https://github.com/Stanko/neon",
+      "original_url": "https://raw.githubusercontent.com/Stanko/neon/master/src/example.png",
+      "type": "official_product_example",
+      "label": "Ejemplo de uso",
+      "width": 1200,
+      "height": 686
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "campos vectoriales",
+      "líneas luminosas",
+      "arte generativo"
+    ],
+    "search_terms": [
+      "flow field",
+      "vector field",
+      "generar líneas",
+      "neón",
+      "dibujar con campos vectoriales"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://neon.muffinman.io/#/false/16/10/50/50/200/5/tue61qck7ol/p7hbf02n7bh/9vl6ll7a7ig",
+      "status": "reachable"
+    },
+    "description_sources": [
+      "https://muffinman.io/art/neon/",
+      "https://muffinman.io/projects/"
+    ],
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "Chromata",
+    "url": "https://www.michaelbromley.co.uk/experiments/chromata/",
+    "description": "Convierte imágenes en trazos animados que recorren sus colores.",
+    "tags": "Generativo · Web",
+    "category": "generativo",
+    "note": "",
+    "id": "tool-021",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Generador"
+    ],
+    "media": [
+      "Imagen"
+    ],
+    "connections": [],
+    "price_source": "https://www.michaelbromley.co.uk/experiments/chromata/",
+    "price_note": "Acceso sin costo al recurso enlazado; las condiciones de uso se consultan en la fuente.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-021.webp",
+      "source_url": "https://www.michaelbromley.co.uk/experiments/chromata/",
+      "original_url": "https://www.michaelbromley.co.uk/experiments/chromata/assets/images/chromata.jpg",
+      "type": "official_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 800
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "trazos animados",
+      "dibujar desde una imagen"
+    ],
+    "search_terms": [
+      "dibujar imágenes",
+      "trazar colores"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://www.michaelbromley.co.uk/experiments/chromata/",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "Orbit Field",
+    "url": "https://amirmushich.com/lab/orbit-field/",
+    "description": "Compone imágenes en un campo circular interactivo, con física de resortes, materiales 3D e iluminación.",
+    "tags": "Experimento · Web",
+    "category": "generativo",
+    "note": "",
+    "id": "tool-022",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Editor"
+    ],
+    "media": [
+      "Imagen",
+      "3D"
+    ],
+    "connections": [],
+    "price_source": "https://amirmushich.com/lab/orbit-field/",
+    "price_note": "Consultá las condiciones de uso y acceso en la fuente.",
+    "access_checked": "2026-10-05",
+    "image": {
+      "path": "images/tool-022.webp",
+      "source_url": "https://amirmushich.com/lab/",
+      "original_url": "https://amirmushich.com/assets/img/lab/orbit-field-1560.webp",
+      "type": "official_tool_screenshot",
+      "label": "Captura de referencia",
+      "width": 1200,
+      "height": 768
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "composición circular",
+      "física de resortes",
+      "materiales 3D",
+      "iluminación"
+    ],
+    "search_terms": [
+      "organizar imágenes",
+      "composición de imágenes",
+      "spring physics",
+      "campo circular"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://amirmushich.com/lab/orbit-field/",
+      "status": "reachable"
+    },
+    "description_sources": [
+      "https://amirmushich.com/lab/"
+    ],
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "Hypergraph",
+    "url": "https://met4citizen.github.io/Hypergraph/",
+    "description": "Simula reglas de reescritura de hipergrafos y visualiza su evolución en 3D.",
+    "tags": "Nodos · Simulación",
+    "category": "generativo",
+    "note": "Para explorar estructuras y sistemas de nodos.",
+    "id": "tool-024",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Simulación",
+      "Código"
+    ],
+    "media": [
+      "3D"
+    ],
+    "connections": [],
+    "price_source": "https://met4citizen.github.io/Hypergraph/",
+    "price_note": "Acceso sin costo al recurso enlazado; las condiciones de uso se consultan en la fuente.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-024.webp",
+      "source_url": "https://met4citizen.github.io/Hypergraph/",
+      "original_url": "https://met4citizen.github.io/Hypergraph/screenshot.jpg",
+      "type": "official_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 654
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "hipergrafos",
+      "nodos",
+      "redes",
+      "reescritura de grafos"
+    ],
+    "search_terms": [
+      "simular sistemas de nodos",
+      "hypergraph",
+      "grafo"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://met4citizen.github.io/Hypergraph/",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "Spline",
+    "url": "https://spline.design/",
+    "description": "Modela y anima escenas 3D en el navegador, con materiales, física e interacciones para la web.",
+    "tags": "Modelado · Web",
+    "category": "3d",
+    "note": "Muy completo; también permite trabajar con filtros visuales.",
+    "id": "tool-025",
+    "access": [
+      "Freemium"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Editor"
+    ],
+    "media": [
+      "3D"
+    ],
+    "connections": [],
+    "price_source": "https://spline.design/pricing",
+    "price_note": "Hay acceso gratuito y funciones o planes de pago.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-025.webp",
+      "source_url": "https://spline.design/",
+      "original_url": "https://spline.design/_next/static/immutable/media/spline_image_banner.2at491x3fx670.png",
+      "type": "official_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 600
+    },
+    "paco_favorite": true,
+    "capabilities": [
+      "modelado 3D",
+      "escenas 3D",
+      "interacciones",
+      "animación 3D",
+      "materiales",
+      "física"
+    ],
+    "search_terms": [
+      "crear objetos 3D",
+      "modelar",
+      "escena interactiva"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://spline.design/",
+      "status": "reachable"
+    },
+    "description_sources": [
+      "https://spline.design/"
+    ],
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "Womp",
+    "url": "https://beta.womp.com/my-projects",
+    "description": "Creación de proyectos y formas en 3D desde la web.",
+    "tags": "Modelado · Web",
+    "category": "3d",
+    "note": "",
+    "id": "tool-026",
+    "access": [
+      "Freemium"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Editor"
+    ],
+    "media": [
+      "3D"
+    ],
+    "connections": [],
+    "price_source": "https://womp.com/pricing.html",
+    "price_note": "Hay acceso gratuito y funciones o planes de pago.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-026.webp",
+      "source_url": "https://beta.womp.com/my-projects",
+      "original_url": "https://beta.womp.com/preview_image.png",
+      "type": "official_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 675
+    },
+    "paco_favorite": true,
+    "capabilities": [
+      "modelado 3D",
+      "formas 3D"
+    ],
+    "search_terms": [
+      "crear objetos 3D",
+      "modelar"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://beta.womp.com/my-projects",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "Project Neo",
+    "url": "https://projectneo.adobe.com/",
+    "description": "Crea gráficos 2D y 3D por capas, combina formas volumétricas y exporta diseños a Illustrator.",
+    "tags": "Modelado · Web",
+    "category": "3d",
+    "note": "Está bueno porque permite trabajar en capas.",
+    "id": "tool-027",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Editor"
+    ],
+    "media": [
+      "3D"
+    ],
+    "connections": [],
+    "price_source": "https://projectneo.adobe.com/",
+    "price_note": "Consultá las condiciones de uso y acceso en la fuente.",
+    "access_checked": "2026-10-05",
+    "image": {
+      "path": "images/tool-027.webp",
+      "source_url": "https://creatorstoolbox.beehiiv.com/p/10-free-design-tools-worth-bookmarking",
+      "original_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ca8b7876-bf9c-4bf0-b0b2-d0ecd521ed47/image.png?t=1775486230",
+      "type": "third_party_screenshot",
+      "label": "Captura de referencia",
+      "width": 1200,
+      "height": 675
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "composición 3D",
+      "capas"
+    ],
+    "search_terms": [
+      "crear objetos 3D",
+      "modelar por capas"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://projectneo.adobe.com/",
+      "status": "reachable"
+    },
+    "description_sources": [
+      "https://helpx.adobe.com/project-neo/help/overview.html",
+      "https://helpx.adobe.com/project-neo/help/release-notes.html"
+    ],
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "Hyphahypha",
+    "url": "https://hyphahypha.com/",
+    "description": "Simulación 3D de crecimiento de micelio y setas a partir de una palabra o un archivo OBJ.",
+    "tags": "Simulación · Web",
+    "category": "3d",
+    "note": "",
+    "id": "tool-028",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Simulación",
+      "Generador"
+    ],
+    "media": [
+      "3D",
+      "Texto"
+    ],
+    "connections": [
+      "OBJ"
+    ],
+    "price_source": "https://hyphahypha.com/",
+    "price_note": "Consultá las condiciones de uso y acceso en la fuente.",
+    "access_checked": "2026-10-05",
+    "image": {
+      "path": "images/tool-028.webp",
+      "source_url": "https://hyphahypha.com/",
+      "original_url": "https://hyphahypha.com/card-twitter.png",
+      "type": "official_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 600
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "micelio",
+      "setas",
+      "crecimiento orgánico"
+    ],
+    "search_terms": [
+      "simular hongos",
+      "crecer micelio",
+      "fungi",
+      "mushrooms"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://hyphahypha.com/",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "Holocloth",
+    "url": "https://holocloth.vercel.app/",
+    "description": "Simulación de tela para experimentar con su comportamiento.",
+    "tags": "Simulación · Web",
+    "category": "3d",
+    "note": "",
+    "id": "tool-029",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Simulación"
+    ],
+    "media": [
+      "3D"
+    ],
+    "connections": [],
+    "price_source": "https://holocloth.vercel.app/",
+    "price_note": "Consultá las condiciones de uso y acceso en la fuente.",
+    "access_checked": "2026-10-05",
+    "image": {
+      "path": "images/tool-029.webp",
+      "source_url": "https://www.buildertools.sh/holocloth",
+      "original_url": "https://wtegvigjbdhuspzkvjlm.supabase.co/storage/v1/object/public/media/holocloth.poster3.webp",
+      "type": "third_party_screenshot",
+      "label": "Captura de referencia",
+      "width": 1179,
+      "height": 1000
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "simulación de tela"
+    ],
+    "search_terms": [
+      "simular tela",
+      "simular tejido",
+      "cloth"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://holocloth.vercel.app/",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "3dp.rocks",
+    "url": "https://3dp.rocks/lithophane/",
+    "description": "Convierte fotos en litofanías para imprimir en 3D.",
+    "tags": "Impresión 3D · Web",
+    "category": "3d",
+    "note": "",
+    "id": "tool-030",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Generador"
+    ],
+    "media": [
+      "3D",
+      "Imagen"
+    ],
+    "connections": [
+      "STL"
+    ],
+    "price_source": "https://3dp.rocks/lithophane/",
+    "price_note": "Acceso sin costo al recurso enlazado; las condiciones de uso se consultan en la fuente.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-030.webp",
+      "source_url": "https://www.obico.io/blog/3d-printing-lithophanes/",
+      "original_url": "https://www.obico.io/assets/images/3dprocks-homepage-d42b4573dadca519a1b96287eeed2831.png",
+      "type": "third_party_screenshot",
+      "label": "Captura de referencia",
+      "width": 1200,
+      "height": 615
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "litofanía",
+      "impresión 3D desde una foto"
+    ],
+    "search_terms": [
+      "convertir foto en relieve",
+      "crear litofanía",
+      "imprimir foto 3D",
+      "lithophane"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://3dp.rocks/lithophane/",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "Polycam",
+    "url": "https://poly.cam/",
+    "description": "App para escanear objetos y espacios en 3D.",
+    "tags": "Escaneo · App",
+    "category": "captura",
+    "note": "",
+    "id": "tool-031",
+    "access": [
+      "Freemium"
+    ],
+    "environment": [
+      "App móvil",
+      "Navegador"
+    ],
+    "roles": [
+      "Captura"
+    ],
+    "media": [
+      "3D"
+    ],
+    "connections": [
+      "GLTF",
+      "SketchUp"
+    ],
+    "price_source": "https://poly.cam/pricing",
+    "price_note": "Plan gratuito con capturas y formatos de exportación limitados.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-031.webp",
+      "source_url": "https://poly.cam/",
+      "original_url": "https://cdn.prod.website-files.com/67a3e58efec5f4dc95fd18c6/67b51de0802bc45c7f9e753e_134a6ccd37ca612d52875946c63020d7_fpmode_fpfull.avif",
+      "type": "official_product_example",
+      "label": "Ejemplo de uso",
+      "width": 1200,
+      "height": 746
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "escaneo 3D",
+      "captura de objetos y espacios"
+    ],
+    "search_terms": [
+      "escanear objetos",
+      "escanear espacios",
+      "escanear 3D",
+      "scan"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://poly.cam/",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "Scaniverse",
+    "url": "https://www.nianticspatial.com/products/capture",
+    "description": "Captura espacios y objetos como mallas 3D o Gaussian splats. Classic procesa en el dispositivo; la nueva plataforma también procesa en la nube.",
+    "tags": "Escaneo · App",
+    "category": "captura",
+    "note": "Scaniverse Classic sigue disponible para proyectos individuales. La nueva plataforma suma trabajo en equipo y procesamiento en la nube.",
+    "id": "tool-032",
+    "access": [
+      "Freemium"
+    ],
+    "environment": [
+      "App móvil",
+      "Navegador"
+    ],
+    "roles": [
+      "Captura"
+    ],
+    "media": [
+      "3D"
+    ],
+    "connections": [],
+    "price_source": "https://nianticspatial.com/pricing",
+    "price_note": "Scaniverse Classic mantiene el procesamiento local gratis. La nueva plataforma ofrece un plan gratuito con créditos y planes Plus, Pro y Enterprise de pago.",
+    "access_checked": "2026-10-06",
+    "image": {
+      "path": "images/tool-032.webp",
+      "source_url": "https://androidapp.jp.net/apk/1541433223/scaniverse-3d-scanner",
+      "original_url": "https://is5-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b1/c4/a9/b1c4a974-8a89-f3e1-579d-7a10957e5d08/aba1e606-9b44-4b8d-9529-3392dd6290a8_screenshot2-55.png/392x696bb.png",
+      "type": "official_appstore_screenshot",
+      "label": "Captura de referencia",
+      "width": 392,
+      "height": 696
+    },
+    "paco_favorite": true,
+    "capabilities": [
+      "escaneo 3D",
+      "captura 3D"
+    ],
+    "search_terms": [
+      "escanear objetos",
+      "escanear espacios",
+      "escanear 3D",
+      "scan",
+      "Niantic Spatial",
+      "Capture",
+      "Scaniverse Classic"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://www.nianticspatial.com/products/capture",
+      "status": "reachable"
+    },
+    "description_sources": [
+      "https://nianticspatial.com/faq/scaniverse"
+    ],
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "RealityScan",
+    "url": "https://www.realityscan.com/",
+    "description": "Reconstruye modelos 3D mediante fotogrametría, a partir de fotos y escaneos láser; tiene versiones móvil y de escritorio.",
+    "tags": "Escaneo",
+    "category": "captura",
+    "note": "",
+    "id": "tool-033",
+    "access": [
+      "Gratis",
+      "Pago"
+    ],
+    "environment": [
+      "App móvil",
+      "Escritorio"
+    ],
+    "roles": [
+      "Captura"
+    ],
+    "media": [
+      "3D"
+    ],
+    "connections": [],
+    "price_source": "https://www.realityscan.com/",
+    "price_note": "La app móvil es gratis. La licencia de escritorio depende del uso y los ingresos; revisá las condiciones.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-033.webp",
+      "source_url": "https://www.realityscan.com/",
+      "original_url": "https://cms-assets.unrealengine.com/cm6trzq52049r07ohhff9djhz/resize=width:1200/cmbr3jk983ehu07oe6ecwcv5c",
+      "type": "official_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 676
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "fotogrametría",
+      "reconstrucción 3D",
+      "captura 3D"
+    ],
+    "search_terms": [
+      "escanear objetos",
+      "reconstruir objetos",
+      "escanear 3D",
+      "scan"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://www.realityscan.com/",
+      "status": "reachable"
+    },
+    "description_sources": [
+      "https://www.realityscan.com/"
+    ],
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "SuperSplat",
+    "url": "https://superspl.at/",
+    "description": "Edición y exploración de escenas de gaussian splats.",
+    "tags": "Gaussian splatting · Web",
+    "category": "captura",
+    "note": "",
+    "id": "tool-034",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Editor"
+    ],
+    "media": [
+      "3D"
+    ],
+    "connections": [],
+    "price_source": "https://superspl.at/",
+    "price_note": "Consultá las condiciones de uso y acceso en la fuente.",
+    "access_checked": "2026-10-05",
+    "image": {
+      "path": "images/tool-034.webp",
+      "source_url": "https://superspl.at/",
+      "original_url": "https://superspl.at/header.webp",
+      "type": "official_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 721
+    },
+    "paco_favorite": true,
+    "capabilities": [
+      "edición de gaussian splats"
+    ],
+    "search_terms": [
+      "editar splats",
+      "gaussian splatting"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://superspl.at/",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "Luma 3D Capture",
+    "url": "https://apps.apple.com/us/app/luma-3d-capture/id1615849914",
+    "description": "App para iPhone que captura objetos y escenas en 3D y permite exportar mallas, NeRFs y gaussian splats.",
+    "tags": "Captura 3D · Revisar enlace",
+    "category": "captura",
+    "note": "El enlace anterior llevaba a la API de imagen y video de Luma. Ahora apunta a la app de captura 3D.",
+    "id": "tool-035",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "App móvil"
+    ],
+    "roles": [
+      "Captura",
+      "IA"
+    ],
+    "media": [
+      "3D",
+      "Video"
+    ],
+    "connections": [
+      "Blender",
+      "Unity",
+      "Unreal Engine"
+    ],
+    "price_source": "https://apps.apple.com/us/app/luma-3d-capture/id1615849914",
+    "price_note": "La descarga de Luma 3D Capture figura como gratuita en App Store.",
+    "access_checked": "2026-10-05",
+    "image": {
+      "path": "images/tool-035.webp",
+      "source_url": "https://pcniki.com/luma-ai/",
+      "original_url": "https://pcniki.com/wp-content/uploads/2023/12/luma-ai-5.webp",
+      "type": "third_party_screenshot",
+      "label": "Captura de referencia",
+      "width": 511,
+      "height": 1000
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "captura 3D",
+      "NeRF",
+      "gaussian splatting",
+      "escaneo 3D"
+    ],
+    "search_terms": [
+      "convertir video en espacio 3D",
+      "convertir video en objeto 3D",
+      "escanear objetos",
+      "escanear escenas",
+      "iPhone",
+      "iOS",
+      "Luma video a 3D"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://lumalabs.ai/api",
+      "status": "reachable"
+    },
+    "description_sources": [
+      "https://apps.apple.com/us/app/luma-3d-capture/id1615849914"
+    ],
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "Spell / Spline",
+    "url": "https://spell.spline.design/",
+    "description": "Convierte una imagen en una escena 3D con IA y permite generar variaciones.",
+    "tags": "IA · Web",
+    "category": "ia",
+    "note": "",
+    "id": "tool-036",
+    "access": [
+      "Freemium"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Generador",
+      "IA"
+    ],
+    "media": [
+      "3D",
+      "Imagen",
+      "Texto"
+    ],
+    "connections": [],
+    "price_source": "https://spell.spline.design/pricing",
+    "price_note": "El plan Free permite consultar la biblioteca de inspiración; generar escenas 3D requiere el plan Early Supporter de pago.",
+    "access_checked": "2026-10-06",
+    "image": {
+      "path": "images/tool-036.webp",
+      "source_url": "https://spell.spline.design/",
+      "original_url": "https://spell.spline.design/images/spell_og_image.jpg",
+      "type": "official_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 630
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "imagen a 3D con IA"
+    ],
+    "search_terms": [
+      "convertir imagen en escena 3D",
+      "generar variantes 3D"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://spell.spline.design/",
+      "status": "reachable"
+    },
+    "description_sources": [
+      "https://spell.spline.design/"
+    ],
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "Meshy",
+    "url": "https://www.meshy.ai/",
+    "description": "Genera modelos 3D desde texto o imágenes y suma texturizado, rigging y animación con IA.",
+    "tags": "IA · Web",
+    "category": "ia",
+    "note": "",
+    "id": "tool-038",
+    "access": [
+      "Freemium"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Generador",
+      "IA"
+    ],
+    "media": [
+      "3D",
+      "Imagen",
+      "Texto"
+    ],
+    "connections": [],
+    "price_source": "https://www.meshy.ai/pricing",
+    "price_note": "Plan gratuito con créditos y condiciones de uso propias.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-038.webp",
+      "source_url": "https://www.meshy.ai/",
+      "original_url": "https://cdn.meshy.ai/landing-assets/og-images/website_og.webp",
+      "type": "official_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 600
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "texto a 3D con IA",
+      "imagen a 3D con IA",
+      "texturizado",
+      "rigging",
+      "animación 3D"
+    ],
+    "search_terms": [
+      "generar objetos desde texto",
+      "generar modelos 3D",
+      "prompts",
+      "convertir imagen en modelo 3D",
+      "texturas PBR",
+      "animar personajes"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://www.meshy.ai/",
+      "status": "reachable"
+    },
+    "description_sources": [
+      "https://www.meshy.ai/"
+    ],
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "Runway",
+    "url": "https://runway.com/",
+    "description": "Generación de videos con IA a partir de texto o imágenes.",
+    "tags": "Video · IA",
+    "category": "movimiento",
+    "note": "",
+    "id": "tool-040",
+    "access": [
+      "Freemium"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Generador",
+      "IA"
+    ],
+    "media": [
+      "Video",
+      "Imagen",
+      "Texto"
+    ],
+    "connections": [],
+    "price_source": "https://runwayml.com/pricing",
+    "price_note": "El plan gratuito incluye créditos limitados.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-040.webp",
+      "source_url": "https://runway.com/",
+      "original_url": "https://d3phaj0sisr2ct.cloudfront.net/site/assets/homepage-og-card-v3.webp",
+      "type": "official_social_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 630
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "texto a video",
+      "imagen a video"
+    ],
+    "search_terms": [
+      "generar video desde texto",
+      "animar imagen",
+      "generar video con IA",
+      "prompts"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://runway.com/",
+      "status": "reachable"
+    },
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "Space Type Generator",
+    "url": "https://spacetypegenerator.com/stripes",
+    "description": "Generador de animaciones tipográficas con parámetros editables.",
+    "tags": "Tipografía · Motion",
+    "category": "movimiento",
+    "note": "",
+    "id": "tool-041",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Generador",
+      "Animación"
+    ],
+    "media": [
+      "Texto",
+      "Video"
+    ],
+    "connections": [],
+    "price_source": "https://spacetypegenerator.com/stripes",
+    "price_note": "Acceso sin costo al recurso enlazado; las condiciones de uso se consultan en la fuente.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-041.webp",
+      "source_url": "https://toolfolio.com/tools/space-type-generator",
+      "original_url": "https://uah9o0nekz8ndp4g.public.blob.vercel-storage.com/tools/space-type-generator/largeImage-1784738300397-CleanShot_2026-07-22_at_19.37.59_2x.jpg",
+      "type": "third_party_screenshot",
+      "label": "Captura de referencia",
+      "width": 1200,
+      "height": 799
+    },
+    "paco_favorite": true,
+    "capabilities": [
+      "animación tipográfica"
+    ],
+    "search_terms": [
+      "animar texto",
+      "animar letras",
+      "kinetic typography"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://spacetypegenerator.com/stripes",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "DU-VFX",
+    "url": "https://apps.apple.com/us/app/du-vfx/id1563142095",
+    "description": "Filtros digitales de estilo glitch para video.",
+    "tags": "Video · iPhone",
+    "category": "movimiento",
+    "note": "Para dispositivos Apple; la ficha actual también indica compatibilidad con iPad.",
+    "id": "tool-042",
+    "access": [
+      "Freemium"
+    ],
+    "environment": [
+      "App · iOS / iPadOS"
+    ],
+    "roles": [
+      "Efectos"
+    ],
+    "media": [
+      "Video"
+    ],
+    "connections": [],
+    "price_source": "https://apps.apple.com/us/app/du-vfx/id1563142095",
+    "price_note": "Descarga gratuita con compras dentro de la app.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-042.webp",
+      "source_url": "https://apps.apple.com/us/app/du-vfx/id1563142095",
+      "original_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/ac/9c/09ac9c04-ee2b-95f4-dc80-d1eb16ef14e4/0dfe8548-812a-4840-b0e0-5e7f05867fbb_DU_FX-02.jpg/600x1300bb.webp",
+      "type": "official_screenshot",
+      "label": "Captura de referencia",
+      "width": 462,
+      "height": 1000
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "glitch en video"
+    ],
+    "search_terms": [
+      "distorsionar video",
+      "interferencias digitales"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://apps.apple.com/us/app/du-vfx/id1563142095",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "Pixel Synth",
+    "url": "https://ojack.xyz/PIXELSYNTH/",
+    "description": "Generación de sonido a partir de una imagen.",
+    "tags": "Sonido · Web",
+    "category": "movimiento",
+    "note": "",
+    "id": "tool-043",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Generador"
+    ],
+    "media": [
+      "Imagen",
+      "Sonido"
+    ],
+    "connections": [],
+    "price_source": "https://ojack.xyz/PIXELSYNTH/",
+    "price_note": "Acceso sin costo al recurso enlazado; las condiciones de uso se consultan en la fuente.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-043.webp",
+      "source_url": "https://ojack.xyz/PIXELSYNTH/",
+      "original_url": "https://raw.githubusercontent.com/ojack/PIXELSYNTH/master/images/preview2.png",
+      "type": "official_social_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 710
+    },
+    "paco_favorite": true,
+    "capabilities": [
+      "imagen a sonido"
+    ],
+    "search_terms": [
+      "convertir imagen en sonido",
+      "sintetizar sonido",
+      "audio",
+      "sound"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://ojack.xyz/PIXELSYNTH/",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "Machine Vision",
+    "url": "https://machine-vision-seven.vercel.app/",
+    "description": "Interpreta el movimiento de un video como puntos, recuadros de seguimiento y anotaciones gráficas procedurales.",
+    "tags": "Tracking · Web",
+    "category": "movimiento",
+    "note": "Es un instrumento visual experimental para tratar el video.",
+    "id": "tool-044",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Captura",
+      "Efectos"
+    ],
+    "media": [
+      "Video"
+    ],
+    "connections": [],
+    "price_source": "https://machine-vision-seven.vercel.app/",
+    "price_note": "Consultá las condiciones de uso y acceso en la fuente.",
+    "access_checked": "2026-10-05",
+    "image": {
+      "path": "images/tool-044.webp",
+      "source_url": "https://machine-vision-seven.vercel.app/",
+      "original_url": "https://raw.githubusercontent.com/amirmushichge/machine-vision/main/public/og.png",
+      "type": "official_social_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 630
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "análisis de movimiento",
+      "gráficos procedurales",
+      "recuadros de seguimiento",
+      "anotación técnica"
+    ],
+    "search_terms": [
+      "trackear video",
+      "tracking",
+      "trackeo",
+      "seguimiento",
+      "rastrear video",
+      "motion analysis",
+      "puntos sobre video",
+      "gráficos sobre video"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://machine-vision-seven.vercel.app/",
+      "status": "reachable"
+    },
+    "description_sources": [
+      "https://machine-vision-seven.vercel.app/",
+      "https://amirmushich.com/lab/"
+    ],
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "Juxtapose",
+    "url": "https://juxtapose.knightlab.com/",
+    "description": "Compara dos imágenes con un deslizador interactivo o una transición animada en GIF.",
+    "tags": "Comparación · Web",
+    "category": "movimiento",
+    "note": "",
+    "id": "tool-045",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Editor"
+    ],
+    "media": [
+      "Imagen"
+    ],
+    "connections": [],
+    "price_source": "https://juxtapose.knightlab.com/",
+    "price_note": "Acceso sin costo al recurso enlazado; las condiciones de uso se consultan en la fuente.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-045.webp",
+      "source_url": "https://juxtapose.knightlab.com/",
+      "original_url": "https://cdn.knightlab.com/libs/orangeline/latest/assets/screenshot-juxtapose.jpg",
+      "type": "official_screenshot_preview",
+      "label": "Captura de referencia",
+      "width": 800,
+      "height": 450
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "comparación de imágenes",
+      "antes y después",
+      "GIF"
+    ],
+    "search_terms": [
+      "comparar dos imágenes",
+      "comparar fotos",
+      "before after"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://juxtapose.knightlab.com/",
+      "status": "reachable"
+    },
+    "description_sources": [
+      "https://juxtapose.knightlab.com/"
+    ],
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "Unicorn Studio",
+    "url": "https://www.unicorn.studio/",
+    "description": "Creación de efectos visuales e interacciones para la web.",
+    "tags": "Motion · Web",
+    "category": "movimiento",
+    "note": "",
+    "id": "tool-046",
+    "access": [
+      "Freemium"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Editor",
+      "Animación"
+    ],
+    "media": [
+      "Web",
+      "Imagen",
+      "Video"
+    ],
+    "connections": [],
+    "price_source": "https://www.unicorn.studio/#pricing",
+    "price_note": "Plan Free con límites de publicación y exportación. Legend añade publicación sin logo, licencia comercial y funciones avanzadas.",
+    "access_checked": "2026-10-06",
+    "image": {
+      "path": "images/tool-046.webp",
+      "source_url": "https://www.unicorn.studio/",
+      "original_url": "https://www.unicorn.studio/images/ogg_new.png",
+      "type": "official_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 630
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "efectos interactivos",
+      "animaciones web"
+    ],
+    "search_terms": [
+      "crear efectos web",
+      "animar una web",
+      "interacción"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://www.unicorn.studio/",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "Gridlover",
+    "url": "https://gridlover.net/try",
+    "description": "Herramienta para explorar jerarquía tipográfica y ritmo vertical.",
+    "tags": "Tipografía · Web",
+    "category": "tipo",
+    "note": "",
+    "id": "tool-047",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Editor"
+    ],
+    "media": [
+      "Texto"
+    ],
+    "connections": [
+      "HTML / CSS"
+    ],
+    "price_source": "https://gridlover.net/try",
+    "price_note": "Acceso sin costo al recurso enlazado; las condiciones de uso se consultan en la fuente.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-047.webp",
+      "source_url": "https://codeflowed.com/tool-for-typographic-vertical-rhythm/",
+      "original_url": "https://codeflowed.com/urhere/wp-content/uploads/2015/10/Screen-Shot-of-Gridlover-webapp.jpg",
+      "type": "third_party_screenshot",
+      "label": "Captura de referencia",
+      "width": 1200,
+      "height": 675
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "ritmo vertical",
+      "jerarquía tipográfica"
+    ],
+    "search_terms": [
+      "organizar tamaños de texto",
+      "tipografía",
+      "typography"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://gridlover.net/try",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "TypeScale",
+    "url": "https://typescale.com/",
+    "description": "Define escalas y estilos tipográficos, prueba tamaños responsive y genera CSS.",
+    "tags": "Tipografía · Web",
+    "category": "tipo",
+    "note": "",
+    "id": "tool-048",
+    "access": [
+      "Freemium"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Editor"
+    ],
+    "media": [
+      "Texto"
+    ],
+    "connections": [],
+    "price_source": "https://typescale.com/",
+    "price_note": "Hay acceso gratuito y funciones o planes de pago.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-048.webp",
+      "source_url": "https://typescale.com/",
+      "original_url": "https://typescale.com/wp-content/uploads/2023/11/og-image.png",
+      "type": "official_screenshot_preview",
+      "label": "Captura de referencia",
+      "width": 1200,
+      "height": 675
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "escalas tipográficas"
+    ],
+    "search_terms": [
+      "organizar tamaños de texto",
+      "tipografía",
+      "typography"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://typescale.com/",
+      "status": "reachable"
+    },
+    "description_sources": [
+      "https://typescale.com/"
+    ],
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "Design Minis",
+    "url": "https://www.designminis.com/",
+    "description": "Una web con muchas herramientas de diseño para descubrir.",
+    "tags": "Directorio · Web",
+    "category": "recursos",
+    "note": "",
+    "id": "tool-049",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Directorio"
+    ],
+    "media": [
+      "Web"
+    ],
+    "connections": [],
+    "price_source": "https://www.designminis.com/",
+    "price_note": "Acceso sin costo al recurso enlazado; las condiciones de uso se consultan en la fuente.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-049.webp",
+      "source_url": "https://www.designminis.com/",
+      "original_url": "https://www.designminis.com/opengraph-image.jpg?3a95b23429654805",
+      "type": "official_screenshot_preview",
+      "label": "Captura de referencia",
+      "width": 1200,
+      "height": 630
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "directorio de herramientas"
+    ],
+    "search_terms": [
+      "descubrir recursos de diseño"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://www.designminis.com/",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "Not Your Type",
+    "url": "https://www.notyourtype.nl/tools/",
+    "description": "Listado de herramientas online variadas y curiosas.",
+    "tags": "Directorio · Web",
+    "category": "recursos",
+    "note": "",
+    "id": "tool-050",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Directorio"
+    ],
+    "media": [
+      "Web"
+    ],
+    "connections": [],
+    "price_source": "https://www.notyourtype.nl/tools/",
+    "price_note": "Acceso sin costo al recurso enlazado; las condiciones de uso se consultan en la fuente.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-050.webp",
+      "source_url": "https://www.notyourtype.nl/tools/",
+      "original_url": "https://www.notyourtype.nl/site/assets/files/1755/typeface_header3.jpg",
+      "type": "official_social_preview",
+      "label": "Presentación oficial",
+      "width": 560,
+      "height": 560
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "directorio de herramientas"
+    ],
+    "search_terms": [
+      "descubrir recursos de diseño"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://www.notyourtype.nl/tools/",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "Texturelabs",
+    "url": "https://texturelabs.org/",
+    "description": "Colección de texturas gratuitas.",
+    "tags": "Texturas · Recursos",
+    "category": "recursos",
+    "note": "",
+    "id": "tool-051",
+    "access": [
+      "Freemium"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Recursos"
+    ],
+    "media": [
+      "Imagen"
+    ],
+    "connections": [],
+    "price_source": "https://texturelabs.org/faq/",
+    "price_note": "Texturas y tutoriales gratuitos. Extras como descargas en lote y texturas sin pérdida requieren un pase de pago.",
+    "access_checked": "2026-10-06",
+    "image": {
+      "path": "images/tool-051.webp",
+      "source_url": "https://texturelabs.org/",
+      "original_url": "https://texturelabs.org/wp-content/uploads/TXLHome.jpg",
+      "type": "official_social_preview",
+      "label": "Presentación oficial",
+      "width": 1000,
+      "height": 1000
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "texturas gratuitas"
+    ],
+    "search_terms": [
+      "descargar texturas",
+      "texture"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://texturelabs.org/",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "Logosystem",
+    "url": "https://logosystem.co/",
+    "description": "Referencias de isotipos y logos.",
+    "tags": "Identidad · Referencias",
+    "category": "recursos",
+    "note": "",
+    "id": "tool-052",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Referencias"
+    ],
+    "media": [
+      "Imagen"
+    ],
+    "connections": [],
+    "price_source": "https://logosystem.co/",
+    "price_note": "Acceso sin costo al recurso enlazado; las condiciones de uso se consultan en la fuente.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-052.webp",
+      "source_url": "https://logosystem.co/",
+      "original_url": "https://logosystem.co/og.png",
+      "type": "official_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 675
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "referencias de logos",
+      "isotipos"
+    ],
+    "search_terms": [
+      "buscar referencias de identidad",
+      "inspiración de logos"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://logosystem.co/",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "Cargo",
+    "url": "https://cargo.site/templates",
+    "description": "Plantillas para crear y publicar sitios web.",
+    "tags": "Web · Plantillas",
+    "category": "recursos",
+    "note": "",
+    "id": "tool-053",
+    "access": [
+      "Freemium"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Editor",
+      "Publicación"
+    ],
+    "media": [
+      "Web"
+    ],
+    "connections": [],
+    "price_source": "https://cargo.site/rates",
+    "price_note": "Se puede crear y probar gratis; publicar requiere un plan, salvo las condiciones para estudiantes.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-053.webp",
+      "source_url": "https://cargo.site/templates",
+      "original_url": "https://static.cargo.site/assets/C3/screenshots/cargosite.jpg",
+      "type": "official_screenshot_preview",
+      "label": "Captura de referencia",
+      "width": 1200,
+      "height": 750
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "plantillas web",
+      "publicación web"
+    ],
+    "search_terms": [
+      "crear sitio web",
+      "crear portfolio",
+      "publicar web"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://cargo.site/templates",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "Netlify",
+    "url": "https://app.netlify.com/",
+    "description": "Plataforma para publicar y compartir páginas web.",
+    "tags": "Web · Publicación",
+    "category": "recursos",
+    "note": "",
+    "id": "tool-054",
+    "access": [
+      "Freemium"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Publicación"
+    ],
+    "media": [
+      "Web",
+      "Código"
+    ],
+    "connections": [
+      "HTML / CSS"
+    ],
+    "price_source": "https://www.netlify.com/pricing/",
+    "price_note": "Hay acceso gratuito y funciones o planes de pago.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-054.webp",
+      "source_url": "https://app.netlify.com/",
+      "original_url": "https://app.netlify.com/og-image-default-app.png",
+      "type": "official_social_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 630
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "publicación de páginas HTML"
+    ],
+    "search_terms": [
+      "publicar web",
+      "subir HTML",
+      "hosting",
+      "deploy"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://app.netlify.com/",
+      "status": "reachable"
+    },
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "MCPMarket",
+    "url": "https://mcpmarket.com/es",
+    "description": "Directorio de servidores y clientes MCP, skills y herramientas para conectar asistentes de IA con otros servicios.",
+    "tags": "IA · Recursos",
+    "category": "recursos",
+    "note": "",
+    "id": "tool-055",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Directorio"
+    ],
+    "media": [
+      "Código"
+    ],
+    "connections": [],
+    "price_source": "https://mcpmarket.com/es",
+    "price_note": "Consultá las condiciones de uso y acceso en la fuente.",
+    "access_checked": "2026-10-05",
+    "image": {
+      "path": "images/tool-055.webp",
+      "source_url": "https://mcpmarket.com/es",
+      "original_url": "https://mcpmarket.com/api/og?title=Descubre%20los%20Mejores%20Servidores%20MCP%20%7C%20MCP%20Market",
+      "type": "official_social_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 630
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "directorio MCP",
+      "habilidades para asistentes"
+    ],
+    "search_terms": [
+      "buscar skills",
+      "Claude",
+      "asistentes IA"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://mcpmarket.com/es",
+      "status": "reachable"
+    },
+    "description_sources": [
+      "https://mcpmarket.com/es"
+    ],
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "Built by Designers",
+    "url": "https://builtbydesigners.com/",
+    "description": "Plataforma que recopila webs y herramientas.",
+    "tags": "Directorio · Web",
+    "category": "recursos",
+    "note": "",
+    "id": "tool-056",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Directorio"
+    ],
+    "media": [
+      "Web"
+    ],
+    "connections": [],
+    "price_source": "https://builtbydesigners.com/",
+    "price_note": "Consultá las condiciones de uso y acceso en la fuente.",
+    "access_checked": "2026-10-05",
+    "image": {
+      "path": "images/tool-056.webp",
+      "source_url": "https://builtbydesigners.com/",
+      "original_url": "https://builtbydesigners.com/metadata/og_thumbnail.png",
+      "type": "official_social_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 630
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "directorio de webs y herramientas"
+    ],
+    "search_terms": [
+      "descubrir recursos de diseño"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://builtbydesigners.com/",
+      "status": "reachable"
+    }
+  },
+  {
+    "name": "Designeer",
+    "url": "https://www.designeer.xyz/",
+    "description": "Directorio curado de referencias de interfaces, componentes, sistemas de diseño, herramientas y recursos de IA.",
+    "tags": "IA · Referencias",
+    "category": "recursos",
+    "note": "",
+    "id": "tool-057",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Directorio",
+      "Referencias"
+    ],
+    "media": [
+      "Web"
+    ],
+    "connections": [],
+    "price_source": "https://www.designeer.xyz/",
+    "price_note": "Consultá las condiciones de uso y acceso en la fuente.",
+    "access_checked": "2026-10-05",
+    "image": {
+      "path": "images/tool-057.webp",
+      "source_url": "https://www.designeer.xyz/",
+      "original_url": "https://designeer.xyz/og_image.png",
+      "type": "official_social_preview",
+      "label": "Presentación oficial",
+      "width": 1200,
+      "height": 625
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "directorio de herramientas",
+      "referencias de interfaces",
+      "componentes",
+      "sistemas de diseño",
+      "recursos de IA"
+    ],
+    "search_terms": [
+      "descubrir recursos de diseño",
+      "buscar referencias",
+      "inspiración UI",
+      "design systems",
+      "component libraries"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://www.designeer.xyz/",
+      "status": "reachable"
+    },
+    "description_sources": [
+      "https://www.designeer.xyz/"
+    ],
+    "description_checked": "2026-10-05"
+  },
+  {
+    "name": "Más herramientas — Google Sheets",
+    "url": "https://docs.google.com/spreadsheets/u/0/d/1Mm-S8q534TG_ts7XHvb3vSzIFH7h9m4LCUxGONiaeq0/htmlview/sheet?headers=true&gid=1617960341#gid=1226704362",
+    "description": "Otro listado amplio de herramientas, compartido en una planilla.",
+    "tags": "Directorio · Planilla",
+    "category": "recursos",
+    "note": "Se conserva como recurso externo; su contenido no está importado.",
+    "id": "tool-058",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Directorio"
+    ],
+    "media": [
+      "Web"
+    ],
+    "connections": [],
+    "price_source": "https://docs.google.com/spreadsheets/u/0/d/1Mm-S8q534TG_ts7XHvb3vSzIFH7h9m4LCUxGONiaeq0/htmlview/sheet?headers=true&gid=1617960341#gid=1226704362",
+    "price_note": "Acceso sin costo al recurso enlazado; las condiciones de uso se consultan en la fuente.",
+    "access_checked": "2026-10-03",
+    "image": {
+      "path": "images/tool-058.webp",
+      "source_url": "https://docs.google.com/spreadsheets/u/0/d/1Mm-S8q534TG_ts7XHvb3vSzIFH7h9m4LCUxGONiaeq0/htmlview/sheet?headers=true&gid=1617960341#gid=1226704362",
+      "original_url": "https://docs.google.com/spreadsheets/u/0/d/1Mm-S8q534TG_ts7XHvb3vSzIFH7h9m4LCUxGONiaeq0/htmlview/sheet?headers=true&gid=1617960341#gid=1226704362",
+      "type": "public_sheet_screenshot",
+      "label": "Captura de referencia",
+      "width": 315,
+      "height": 930
+    },
+    "paco_favorite": false,
+    "capabilities": [
+      "directorio de herramientas en planilla"
+    ],
+    "search_terms": [
+      "descubrir recursos de diseño"
+    ],
+    "link_check": {
+      "checked": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://docs.google.com/spreadsheets/u/0/d/1Mm-S8q534TG_ts7XHvb3vSzIFH7h9m4LCUxGONiaeq0/htmlview/sheet?headers=true&gid=1617960341#gid=1226704362",
+      "status": "reachable"
+    }
+  },
+  {
+    "id": "tool-059",
+    "name": "Cobalt",
+    "url": "https://cobalt.tools/",
+    "description": "Descargá videos, audio, imágenes y GIFs pegando el enlace de un servicio compatible. Gratis y sin anuncios.",
+    "tags": "Descarga · Web",
+    "category": "recursos",
+    "note": "",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Descarga"
+    ],
+    "media": [
+      "Video",
+      "Sonido",
+      "Imagen"
+    ],
+    "connections": [],
+    "price_source": "https://cobalt.tools/about/general",
+    "price_note": "Gratis, sin anuncios ni paywalls; admite donaciones.",
+    "access_checked": "2026-10-06",
+    "paco_favorite": true,
+    "capabilities": [
+      "descargar videos",
+      "descargar audio",
+      "guardar imágenes",
+      "descargar GIFs",
+      "extraer audio"
+    ],
+    "search_terms": [
+      "descargas",
+      "download",
+      "downloader",
+      "bajar videos",
+      "guardar video",
+      "descargar vídeos",
+      "descargar música",
+      "guardar archivos desde enlaces"
+    ],
+    "description_sources": [
+      "https://cobalt.tools/about/general"
+    ],
+    "description_checked": "2026-10-06",
+    "image": {
+      "path": "images/tool-059.webp",
+      "source_url": "https://github.com/imputnet/cobalt/blob/main/web/static/update-banners/cobalt10.webp",
+      "original_url": "https://raw.githubusercontent.com/imputnet/cobalt/main/web/static/update-banners/cobalt10.webp",
+      "type": "official_preview",
+      "label": "Fotografía oficial de la interfaz de Cobalt",
+      "width": 1600,
+      "height": 1227
+    }
+  }
+]

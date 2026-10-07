@@ -1,0 +1,582 @@
+[
+  {
+    "tool": "Tooooools",
+    "path": "images/tool-001.webp",
+    "source_url": "https://www.tooooools.app/",
+    "original_url": "https://www.tooooools.app/open-graph.jpg",
+    "type": "official_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 630
+  },
+  {
+    "tool": "Grainrad",
+    "path": "images/tool-002.webp",
+    "source_url": "https://grainrad.com/",
+    "original_url": "https://grainrad.com/preview_thu.png",
+    "type": "official_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 630
+  },
+  {
+    "tool": "PhotoMosh",
+    "path": "images/tool-003.webp",
+    "source_url": "https://moviemaker.minitool.com/moviemaker/glitch-photo-editor.html",
+    "original_url": "https://images.minitool.com/moviemaker.minitool.com/images/uploads/articles/2021/07/glitch-photo-editor/glitch-photo-editor-2.jpg",
+    "type": "third_party_screenshot",
+    "label": "Captura de referencia",
+    "width": 828,
+    "height": 443
+  },
+  {
+    "tool": "Marbling tool",
+    "path": "images/tool-004.webp",
+    "source_url": "https://afterimage.cc/tools/",
+    "original_url": "https://afterimage.cc/tools/img/marbling_1.png",
+    "type": "official_example",
+    "label": "Ejemplo de uso",
+    "width": 1000,
+    "height": 1000
+  },
+  {
+    "tool": "Gradientor",
+    "path": "images/tool-005.webp",
+    "source_url": "https://afterimage.cc/tools/",
+    "original_url": "https://afterimage.cc/tools/img/gradientor_v1.png",
+    "type": "official_preview",
+    "label": "Presentación oficial",
+    "width": 999,
+    "height": 1000
+  },
+  {
+    "tool": "Pixel Sorter",
+    "path": "images/tool-006.webp",
+    "source_url": "https://pixel-sorter.com/",
+    "original_url": "https://pixel-sorter.com/showcase/starrynight.png",
+    "type": "official_preview",
+    "label": "Presentación oficial",
+    "width": 1199,
+    "height": 950
+  },
+  {
+    "tool": "Colir",
+    "path": "images/tool-007.webp",
+    "source_url": "https://colir.space/",
+    "original_url": "https://colir.space/Templates/OG_colir.png",
+    "type": "official_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 630
+  },
+  {
+    "tool": "Tech Collage",
+    "path": "images/tool-008.webp",
+    "source_url": "https://tech-collage-cyan.vercel.app/",
+    "original_url": "",
+    "type": "live_screenshot",
+    "label": "Captura de referencia",
+    "width": 1200,
+    "height": 824
+  },
+  {
+    "tool": "Logo Dot — Oleg Coada",
+    "path": "images/tool-009.webp",
+    "source_url": "https://logo-dot-oleg-coada.vercel.app/",
+    "original_url": "",
+    "type": "live_screenshot",
+    "label": "Captura de referencia",
+    "width": 1200,
+    "height": 824
+  },
+  {
+    "tool": "Cloud Canvas",
+    "path": "images/tool-010.webp",
+    "source_url": "https://image-cloud-canvas.vercel.app/image-cloud-canvas.html",
+    "original_url": "https://image-cloud-canvas.vercel.app/image-cloud-canvas.html",
+    "type": "actual_tool_screenshot",
+    "label": "Captura de referencia",
+    "width": 1200,
+    "height": 824
+  },
+  {
+    "tool": "Brand Generator",
+    "path": "images/tool-011.webp",
+    "source_url": "https://brand-generator.stoyanov.works/",
+    "original_url": "https://brand-generator.stoyanov.works/",
+    "type": "live_ui_screenshot",
+    "label": "Captura de referencia",
+    "width": 1200,
+    "height": 824
+  },
+  {
+    "tool": "TIV",
+    "path": "images/tool-012.webp",
+    "source_url": "https://t-iv.com/",
+    "original_url": "https://t-iv.com/opengraph-image.png?54c079391784d732",
+    "type": "official_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 630
+  },
+  {
+    "tool": "Clipdrop",
+    "path": "images/tool-013.webp",
+    "source_url": "https://clipdrop.co/",
+    "original_url": "https://assets.reactbricks.com/G-dH90DZVcB0SiT/images/original/Lxv-0lCYYQgvMU7.webp",
+    "type": "official_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 630
+  },
+  {
+    "tool": "Hydra",
+    "path": "images/tool-014.webp",
+    "source_url": "https://hydra.ojack.xyz/",
+    "original_url": "https://hydra.ojack.xyz/images/hydra-landing.png",
+    "type": "official_preview",
+    "label": "Presentación oficial",
+    "width": 1158,
+    "height": 767
+  },
+  {
+    "tool": "OpenProcessing",
+    "path": "images/tool-015.webp",
+    "source_url": "https://intercom.help/openprocessing/en/articles/3003087-using-code-history-to-rollback-code",
+    "original_url": "https://i.vimeocdn.com/video/784776548-aeb266fd68756a2f910f9faf3b791e2be2ee232578a441f76083ca2f9af03858-d?f=webp",
+    "type": "existing_screenshot",
+    "label": "Captura de referencia",
+    "width": 778,
+    "height": 498
+  },
+  {
+    "tool": "CodePen",
+    "path": "images/tool-016.webp",
+    "source_url": "https://www.getapp.es/software/2047055/codepen",
+    "original_url": "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/c3595f33-1f16-457a-accf-6af54a76197f.png?auto=format&q=50",
+    "type": "existing_screenshot",
+    "label": "Captura de referencia",
+    "width": 1200,
+    "height": 812
+  },
+  {
+    "tool": "Reaction-Diffusion Playground",
+    "path": "images/tool-017.webp",
+    "source_url": "https://jasonwebb.github.io/reaction-diffusion-playground/app.html",
+    "original_url": "https://raw.githubusercontent.com/jasonwebb/reaction-diffusion-playground/master/images/social-media-preview.jpg",
+    "type": "official_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 628
+  },
+  {
+    "tool": "Tiles",
+    "path": "images/tool-018.webp",
+    "source_url": "https://james.js.org/tiles.html",
+    "original_url": "https://james.js.org/img/tiles/tiles1.png",
+    "type": "official_tool_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 713
+  },
+  {
+    "tool": "Spiral Art Maker",
+    "path": "images/tool-019.webp",
+    "source_url": "https://codepen.io/davidpanik/full/myMrLx",
+    "original_url": "https://codepen.io/davidpanik/full/myMrLx",
+    "type": "actual_tool_screenshot",
+    "label": "Captura de referencia",
+    "width": 1200,
+    "height": 824
+  },
+  {
+    "tool": "Neon",
+    "path": "images/tool-020.webp",
+    "source_url": "https://github.com/Stanko/neon",
+    "original_url": "https://raw.githubusercontent.com/Stanko/neon/master/src/example.png",
+    "type": "official_product_example",
+    "label": "Ejemplo de uso",
+    "width": 1200,
+    "height": 686
+  },
+  {
+    "tool": "Chromata",
+    "path": "images/tool-021.webp",
+    "source_url": "https://www.michaelbromley.co.uk/experiments/chromata/",
+    "original_url": "https://www.michaelbromley.co.uk/experiments/chromata/assets/images/chromata.jpg",
+    "type": "official_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 800
+  },
+  {
+    "tool": "Orbit Field",
+    "path": "images/tool-022.webp",
+    "source_url": "https://amirmushich.com/lab/",
+    "original_url": "https://amirmushich.com/assets/img/lab/orbit-field-1560.webp",
+    "type": "official_tool_screenshot",
+    "label": "Captura de referencia",
+    "width": 1200,
+    "height": 768
+  },
+  {
+    "tool": "LIITH / fxhash",
+    "path": "images/tool-023.webp",
+    "source_url": "https://tezos.com/events/art-basel-miami-beach-2023/",
+    "original_url": "https://tezos.com/img-mirror/DzIcEb8vTHG6JrVjcp7Z.png",
+    "type": "platform_logo_fallback",
+    "label": "Imagen de la plataforma fxhash",
+    "width": 400,
+    "height": 400
+  },
+  {
+    "tool": "Hypergraph",
+    "path": "images/tool-024.webp",
+    "source_url": "https://met4citizen.github.io/Hypergraph/",
+    "original_url": "https://met4citizen.github.io/Hypergraph/screenshot.jpg",
+    "type": "official_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 654
+  },
+  {
+    "tool": "Spline",
+    "path": "images/tool-025.webp",
+    "source_url": "https://spline.design/",
+    "original_url": "https://spline.design/_next/static/immutable/media/spline_image_banner.2at491x3fx670.png",
+    "type": "official_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 600
+  },
+  {
+    "tool": "Womp",
+    "path": "images/tool-026.webp",
+    "source_url": "https://beta.womp.com/my-projects",
+    "original_url": "https://beta.womp.com/preview_image.png",
+    "type": "official_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 675
+  },
+  {
+    "tool": "Project Neo",
+    "path": "images/tool-027.webp",
+    "source_url": "https://creatorstoolbox.beehiiv.com/p/10-free-design-tools-worth-bookmarking",
+    "original_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ca8b7876-bf9c-4bf0-b0b2-d0ecd521ed47/image.png?t=1775486230",
+    "type": "third_party_screenshot",
+    "label": "Captura de referencia",
+    "width": 1200,
+    "height": 675
+  },
+  {
+    "tool": "Hyphahypha",
+    "path": "images/tool-028.webp",
+    "source_url": "https://hyphahypha.com/",
+    "original_url": "https://hyphahypha.com/card-twitter.png",
+    "type": "official_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 600
+  },
+  {
+    "tool": "Holocloth",
+    "path": "images/tool-029.webp",
+    "source_url": "https://www.buildertools.sh/holocloth",
+    "original_url": "https://wtegvigjbdhuspzkvjlm.supabase.co/storage/v1/object/public/media/holocloth.poster3.webp",
+    "type": "third_party_screenshot",
+    "label": "Captura de referencia",
+    "width": 1179,
+    "height": 1000
+  },
+  {
+    "tool": "3dp.rocks",
+    "path": "images/tool-030.webp",
+    "source_url": "https://www.obico.io/blog/3d-printing-lithophanes/",
+    "original_url": "https://www.obico.io/assets/images/3dprocks-homepage-d42b4573dadca519a1b96287eeed2831.png",
+    "type": "third_party_screenshot",
+    "label": "Captura de referencia",
+    "width": 1200,
+    "height": 615
+  },
+  {
+    "tool": "Polycam",
+    "path": "images/tool-031.webp",
+    "source_url": "https://poly.cam/",
+    "original_url": "https://cdn.prod.website-files.com/67a3e58efec5f4dc95fd18c6/67b51de0802bc45c7f9e753e_134a6ccd37ca612d52875946c63020d7_fpmode_fpfull.avif",
+    "type": "official_product_example",
+    "label": "Ejemplo de uso",
+    "width": 1200,
+    "height": 746
+  },
+  {
+    "tool": "Scaniverse",
+    "path": "images/tool-032.webp",
+    "source_url": "https://androidapp.jp.net/apk/1541433223/scaniverse-3d-scanner",
+    "original_url": "https://is5-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b1/c4/a9/b1c4a974-8a89-f3e1-579d-7a10957e5d08/aba1e606-9b44-4b8d-9529-3392dd6290a8_screenshot2-55.png/392x696bb.png",
+    "type": "official_appstore_screenshot",
+    "label": "Captura de referencia",
+    "width": 392,
+    "height": 696
+  },
+  {
+    "tool": "RealityScan",
+    "path": "images/tool-033.webp",
+    "source_url": "https://www.realityscan.com/",
+    "original_url": "https://cms-assets.unrealengine.com/cm6trzq52049r07ohhff9djhz/resize=width:1200/cmbr3jk983ehu07oe6ecwcv5c",
+    "type": "official_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 676
+  },
+  {
+    "tool": "SuperSplat",
+    "path": "images/tool-034.webp",
+    "source_url": "https://superspl.at/",
+    "original_url": "https://superspl.at/header.webp",
+    "type": "official_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 721
+  },
+  {
+    "tool": "Luma — video a 3D",
+    "path": "images/tool-035.webp",
+    "source_url": "https://pcniki.com/luma-ai/",
+    "original_url": "https://pcniki.com/wp-content/uploads/2023/12/luma-ai-5.webp",
+    "type": "third_party_screenshot",
+    "label": "Captura de referencia",
+    "width": 511,
+    "height": 1000
+  },
+  {
+    "tool": "Spell / Spline",
+    "path": "images/tool-036.webp",
+    "source_url": "https://spell.spline.design/",
+    "original_url": "https://spell.spline.design/images/spell_og_image.jpg",
+    "type": "official_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 630
+  },
+  {
+    "tool": "Luma Genie",
+    "path": "images/tool-037.webp",
+    "source_url": "https://forest.watch.impress.co.jp/docs/serial/blenderwthing/1573146.html",
+    "original_url": "https://asset.watch.impress.co.jp/img/wf/docs/1573/146/image04_l.png",
+    "type": "third_party_screenshot",
+    "label": "Captura de referencia",
+    "width": 540,
+    "height": 420
+  },
+  {
+    "tool": "Meshy",
+    "path": "images/tool-038.webp",
+    "source_url": "https://www.meshy.ai/",
+    "original_url": "https://cdn.meshy.ai/landing-assets/og-images/website_og.webp",
+    "type": "official_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 600
+  },
+  {
+    "tool": "ZoeDepth",
+    "path": "images/tool-039.webp",
+    "source_url": "https://huggingface.co/spaces/shariqfarooq/ZoeDepth",
+    "original_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/spaces/shariqfarooq/ZoeDepth.png",
+    "type": "official_social_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 648
+  },
+  {
+    "tool": "Runway",
+    "path": "images/tool-040.webp",
+    "source_url": "https://runway.com/",
+    "original_url": "https://d3phaj0sisr2ct.cloudfront.net/site/assets/homepage-og-card-v3.webp",
+    "type": "official_social_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 630
+  },
+  {
+    "tool": "Space Type Generator",
+    "path": "images/tool-041.webp",
+    "source_url": "https://toolfolio.com/tools/space-type-generator",
+    "original_url": "https://uah9o0nekz8ndp4g.public.blob.vercel-storage.com/tools/space-type-generator/largeImage-1784738300397-CleanShot_2026-07-22_at_19.37.59_2x.jpg",
+    "type": "third_party_screenshot",
+    "label": "Captura de referencia",
+    "width": 1200,
+    "height": 799
+  },
+  {
+    "tool": "DU-VFX",
+    "path": "images/tool-042.webp",
+    "source_url": "https://apps.apple.com/us/app/du-vfx/id1563142095",
+    "original_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/ac/9c/09ac9c04-ee2b-95f4-dc80-d1eb16ef14e4/0dfe8548-812a-4840-b0e0-5e7f05867fbb_DU_FX-02.jpg/600x1300bb.webp",
+    "type": "official_screenshot",
+    "label": "Captura de referencia",
+    "width": 462,
+    "height": 1000
+  },
+  {
+    "tool": "Pixel Synth",
+    "path": "images/tool-043.webp",
+    "source_url": "https://ojack.xyz/PIXELSYNTH/",
+    "original_url": "https://raw.githubusercontent.com/ojack/PIXELSYNTH/master/images/preview2.png",
+    "type": "official_social_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 710
+  },
+  {
+    "tool": "Machine Vision",
+    "path": "images/tool-044.webp",
+    "source_url": "https://machine-vision-seven.vercel.app/",
+    "original_url": "https://raw.githubusercontent.com/amirmushichge/machine-vision/main/public/og.png",
+    "type": "official_social_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 630
+  },
+  {
+    "tool": "Juxtapose",
+    "path": "images/tool-045.webp",
+    "source_url": "https://juxtapose.knightlab.com/",
+    "original_url": "https://cdn.knightlab.com/libs/orangeline/latest/assets/screenshot-juxtapose.jpg",
+    "type": "official_screenshot_preview",
+    "label": "Captura de referencia",
+    "width": 800,
+    "height": 450
+  },
+  {
+    "tool": "Unicorn Studio",
+    "path": "images/tool-046.webp",
+    "source_url": "https://www.unicorn.studio/",
+    "original_url": "https://www.unicorn.studio/images/ogg_new.png",
+    "type": "official_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 630
+  },
+  {
+    "tool": "Gridlover",
+    "path": "images/tool-047.webp",
+    "source_url": "https://codeflowed.com/tool-for-typographic-vertical-rhythm/",
+    "original_url": "https://codeflowed.com/urhere/wp-content/uploads/2015/10/Screen-Shot-of-Gridlover-webapp.jpg",
+    "type": "third_party_screenshot",
+    "label": "Captura de referencia",
+    "width": 1200,
+    "height": 675
+  },
+  {
+    "tool": "TypeScale",
+    "path": "images/tool-048.webp",
+    "source_url": "https://typescale.com/",
+    "original_url": "https://typescale.com/wp-content/uploads/2023/11/og-image.png",
+    "type": "official_screenshot_preview",
+    "label": "Captura de referencia",
+    "width": 1200,
+    "height": 675
+  },
+  {
+    "tool": "Design Minis",
+    "path": "images/tool-049.webp",
+    "source_url": "https://www.designminis.com/",
+    "original_url": "https://www.designminis.com/opengraph-image.jpg?3a95b23429654805",
+    "type": "official_screenshot_preview",
+    "label": "Captura de referencia",
+    "width": 1200,
+    "height": 630
+  },
+  {
+    "tool": "Not Your Type",
+    "path": "images/tool-050.webp",
+    "source_url": "https://www.notyourtype.nl/tools/",
+    "original_url": "https://www.notyourtype.nl/site/assets/files/1755/typeface_header3.jpg",
+    "type": "official_social_preview",
+    "label": "Presentación oficial",
+    "width": 560,
+    "height": 560
+  },
+  {
+    "tool": "Texturelabs",
+    "path": "images/tool-051.webp",
+    "source_url": "https://texturelabs.org/",
+    "original_url": "https://texturelabs.org/wp-content/uploads/TXLHome.jpg",
+    "type": "official_social_preview",
+    "label": "Presentación oficial",
+    "width": 1000,
+    "height": 1000
+  },
+  {
+    "tool": "Logosystem",
+    "path": "images/tool-052.webp",
+    "source_url": "https://logosystem.co/",
+    "original_url": "https://logosystem.co/og.png",
+    "type": "official_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 675
+  },
+  {
+    "tool": "Cargo",
+    "path": "images/tool-053.webp",
+    "source_url": "https://cargo.site/templates",
+    "original_url": "https://static.cargo.site/assets/C3/screenshots/cargosite.jpg",
+    "type": "official_screenshot_preview",
+    "label": "Captura de referencia",
+    "width": 1200,
+    "height": 750
+  },
+  {
+    "tool": "Netlify",
+    "path": "images/tool-054.webp",
+    "source_url": "https://app.netlify.com/",
+    "original_url": "https://app.netlify.com/og-image-default-app.png",
+    "type": "official_social_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 630
+  },
+  {
+    "tool": "MCPMarket",
+    "path": "images/tool-055.webp",
+    "source_url": "https://mcpmarket.com/es",
+    "original_url": "https://mcpmarket.com/api/og?title=Descubre%20los%20Mejores%20Servidores%20MCP%20%7C%20MCP%20Market",
+    "type": "official_social_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 630
+  },
+  {
+    "tool": "Built by Designers",
+    "path": "images/tool-056.webp",
+    "source_url": "https://builtbydesigners.com/",
+    "original_url": "https://builtbydesigners.com/metadata/og_thumbnail.png",
+    "type": "official_social_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 630
+  },
+  {
+    "tool": "Designeer",
+    "path": "images/tool-057.webp",
+    "source_url": "https://www.designeer.xyz/",
+    "original_url": "https://designeer.xyz/og_image.png",
+    "type": "official_social_preview",
+    "label": "Presentación oficial",
+    "width": 1200,
+    "height": 625
+  },
+  {
+    "tool": "Más herramientas — Google Sheets",
+    "path": "images/tool-058.webp",
+    "source_url": "https://docs.google.com/spreadsheets/u/0/d/1Mm-S8q534TG_ts7XHvb3vSzIFH7h9m4LCUxGONiaeq0/htmlview/sheet?headers=true&gid=1617960341#gid=1226704362",
+    "original_url": "https://docs.google.com/spreadsheets/u/0/d/1Mm-S8q534TG_ts7XHvb3vSzIFH7h9m4LCUxGONiaeq0/htmlview/sheet?headers=true&gid=1617960341#gid=1226704362",
+    "type": "public_sheet_screenshot",
+    "label": "Captura de referencia",
+    "width": 315,
+    "height": 930
+  }
+]

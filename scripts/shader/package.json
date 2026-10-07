@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "shaders": "4.0.0",
+    "esbuild": "0.28.1"
+  },
+  "scripts": {
+    "build": "esbuild paco-shader.mjs --bundle --format=esm --minify --outfile=../../dist/paco-shader.mjs"
+  }
+}
