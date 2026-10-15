@@ -578,5 +578,15 @@
     "label": "Captura de referencia",
     "width": 315,
     "height": 930
+  },
+  {
+    "tool": "Image-to-Pixel",
+    "path": "https://media2.dev.to/dynamic/image/width%3D1600%2Cheight%3D900%2Cfit%3Dcover%2Cgravity%3Dauto%2Cformat%3Dauto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft8bh0itvposg341bnvhu.webp",
+    "source_url": "https://dev.to/jqueryscript/image-to-pixel-convert-images-to-pixel-art-with-javascript-dithering-4mp",
+    "original_url": "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t8bh0itvposg341bnvhu.webp",
+    "type": "third_party_screenshot",
+    "label": "Captura de la interfaz de Image-to-Pixel",
+    "width": 1600,
+    "height": 900
   }
 ]
