@@ -900,6 +900,73 @@
     "description_checked": "2026-10-05"
   },
   {
+    "id": "tool-061",
+    "name": "Image-to-Pixel",
+    "url": "https://tezumie.github.io/Image-to-Pixel/editor/",
+    "description": "Editor web gratuito para convertir imágenes y video en pixel art con distintos métodos de dithering, paletas personalizadas y controles de resolución; también ofrece una API JavaScript.",
+    "tags": "Pixel art · Dithering · Web",
+    "category": "imagen",
+    "note": "",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Editor",
+      "Efectos"
+    ],
+    "media": [
+      "Imagen",
+      "Video",
+      "Código"
+    ],
+    "connections": [
+      "JavaScript",
+      "p5.js",
+      "q5.js"
+    ],
+    "price_source": "https://github.com/Tezumie/Image-to-Pixel#readme",
+    "price_note": "Editor web gratuito y de código abierto; el proyecto declara licencia MIT.",
+    "access_checked": "2026-10-15",
+    "paco_favorite": true,
+    "capabilities": [
+      "pixel art",
+      "pixelado",
+      "dithering",
+      "Floyd-Steinberg",
+      "Atkinson",
+      "Bayer",
+      "blue noise",
+      "paletas personalizadas",
+      "control de resolución",
+      "exportación de imágenes",
+      "procesamiento de video"
+    ],
+    "search_terms": [
+      "convertir imagen a pixel art",
+      "pixelar imagen online",
+      "efecto dithering",
+      "filtros de pixel art",
+      "crear arte pixelado",
+      "paleta de colores pixel art"
+    ],
+    "description_sources": [
+      "https://github.com/Tezumie/Image-to-Pixel#readme"
+    ],
+    "description_checked": "2026-10-15",
+    "image": {
+      "path": "https://media2.dev.to/dynamic/image/width%3D1600%2Cheight%3D900%2Cfit%3Dcover%2Cgravity%3Dauto%2Cformat%3Dauto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft8bh0itvposg341bnvhu.webp",
+      "source_url": "https://dev.to/jqueryscript/image-to-pixel-convert-images-to-pixel-art-with-javascript-dithering-4mp",
+      "original_url": "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t8bh0itvposg341bnvhu.webp",
+      "type": "third_party_screenshot",
+      "label": "Captura de la interfaz de Image-to-Pixel",
+      "width": 1600,
+      "height": 900
+    }
+  },
+  {
     "name": "Hydra",
     "url": "https://hydra.ojack.xyz/",
     "description": "Entorno de código para crear visuales, filtros y patrones en tiempo real.",
