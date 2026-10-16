@@ -596,5 +596,13 @@
     "original_url": "https://img.itch.zone/aW1nLzMwOTA2NjU4LnBuZw%3D%3D/original/bt6AXX.png",
     "type": "official_preview",
     "label": "Captura oficial: dibujo de pixel art con Kenney Shape"
+  },
+  {
+    "tool": "PixelEngine",
+    "path": "https://pixelengine.ai/images/piskelscreenshot.png?dpl=dpl_58m3ETmU4JimZbvNaJpCnqZRh5Vd",
+    "source_url": "https://pixelengine.ai/",
+    "original_url": "https://pixelengine.ai/images/piskelscreenshot.png?dpl=dpl_58m3ETmU4JimZbvNaJpCnqZRh5Vd",
+    "type": "official_preview",
+    "label": "Captura oficial del editor de pixel art integrado"
   }
 ]
