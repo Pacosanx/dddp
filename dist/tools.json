@@ -1818,6 +1818,75 @@
     }
   },
   {
+    "id": "tool-062",
+    "name": "Kenney Shape",
+    "url": "https://kenney.itch.io/kenney-shape",
+    "description": "Editor de pixel art que permite ajustar la profundidad de cada píxel y convertir los diseños en modelos 3D extruidos.",
+    "tags": "Pixel art · Modelado 3D · Escritorio",
+    "category": "3d",
+    "note": "Para Windows y Linux; exporta modelos 3D, voxel e imágenes bitmap o vectoriales.",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Escritorio"
+    ],
+    "roles": [
+      "Editor",
+      "Generador"
+    ],
+    "media": [
+      "Imagen",
+      "3D"
+    ],
+    "connections": [
+      "OBJ",
+      "FBX",
+      "DAE",
+      "glTF",
+      "STL",
+      "VOX"
+    ],
+    "price_source": "https://kenney.itch.io/kenney-shape",
+    "price_note": "Descarga gratuita desde el 15 de octubre de 2026.",
+    "access_checked": "2026-10-16",
+    "paco_favorite": true,
+    "capabilities": [
+      "pixel art",
+      "extrusión a 3D",
+      "profundidad por píxel",
+      "modelos 3D",
+      "modelos voxel",
+      "UV mapping",
+      "exportar OBJ",
+      "exportar FBX",
+      "exportar DAE",
+      "exportar glTF",
+      "exportar STL",
+      "exportar VOX",
+      "imágenes bitmap",
+      "imágenes vectoriales"
+    ],
+    "search_terms": [
+      "convertir pixel art en 3D",
+      "extruir píxeles",
+      "crear modelos 3D desde pixel art",
+      "hacer voxel art",
+      "programa para pixel art 3D"
+    ],
+    "description_sources": [
+      "https://kenney.itch.io/kenney-shape"
+    ],
+    "description_checked": "2026-10-16",
+    "image": {
+      "path": "https://img.itch.zone/aW1nLzMwOTA2NjU4LnBuZw%3D%3D/original/bt6AXX.png",
+      "source_url": "https://kenney.itch.io/kenney-shape",
+      "original_url": "https://img.itch.zone/aW1nLzMwOTA2NjU4LnBuZw%3D%3D/original/bt6AXX.png",
+      "type": "official_preview",
+      "label": "Captura oficial: dibujo de pixel art con Kenney Shape"
+    }
+  },
+  {
     "name": "Polycam",
     "url": "https://poly.cam/",
     "description": "App para escanear objetos y espacios en 3D.",
