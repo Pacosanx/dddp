@@ -588,5 +588,13 @@
     "label": "Captura de la interfaz de Image-to-Pixel",
     "width": 1600,
     "height": 900
+  },
+  {
+    "tool": "Kenney Shape",
+    "path": "https://img.itch.zone/aW1nLzMwOTA2NjU4LnBuZw%3D%3D/original/bt6AXX.png",
+    "source_url": "https://kenney.itch.io/kenney-shape",
+    "original_url": "https://img.itch.zone/aW1nLzMwOTA2NjU4LnBuZw%3D%3D/original/bt6AXX.png",
+    "type": "official_preview",
+    "label": "Captura oficial: dibujo de pixel art con Kenney Shape"
   }
 ]
