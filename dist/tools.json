@@ -1850,7 +1850,7 @@
     "price_source": "https://kenney.itch.io/kenney-shape",
     "price_note": "Descarga gratuita desde el 15 de octubre de 2026.",
     "access_checked": "2026-10-16",
-    "paco_favorite": true,
+    "paco_favorite": false,
     "capabilities": [
       "pixel art",
       "extrusión a 3D",
