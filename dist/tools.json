@@ -2667,6 +2667,70 @@
     }
   },
   {
+    "id": "tool-063",
+    "name": "PixelEngine",
+    "url": "https://pixelengine.ai/",
+    "description": "Generador y editor de assets pixel art para videojuegos; anima personajes a partir de imágenes y prompts.",
+    "tags": "Pixel art · Animación · IA",
+    "category": "movimiento",
+    "note": "Incluye un editor de pixel art integrado basado en Piskel.",
+    "access": [
+      "Freemium"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Generador",
+      "Editor",
+      "IA"
+    ],
+    "media": [
+      "Imagen",
+      "Video",
+      "Código"
+    ],
+    "connections": [
+      "Piskel",
+      "API",
+      "MCP"
+    ],
+    "price_source": "https://pixelengine.ai/",
+    "price_note": "Plan gratuito con 100 créditos mensuales; también ofrece planes pagos.",
+    "access_checked": "2026-10-16",
+    "paco_favorite": false,
+    "capabilities": [
+      "generar assets pixel art",
+      "animar personajes",
+      "animación desde prompts",
+      "editor de pixel art",
+      "edición de fotogramas",
+      "ajuste de colores",
+      "eliminación de fondos",
+      "API",
+      "MCP"
+    ],
+    "search_terms": [
+      "generador de sprites con IA",
+      "animar personaje pixel art",
+      "crear animaciones para videojuegos",
+      "editor de sprites pixel art",
+      "assets pixel art para juegos",
+      "animación de sprites desde texto"
+    ],
+    "description_sources": [
+      "https://pixelengine.ai/"
+    ],
+    "description_checked": "2026-10-16",
+    "image": {
+      "path": "https://pixelengine.ai/images/piskelscreenshot.png?dpl=dpl_58m3ETmU4JimZbvNaJpCnqZRh5Vd",
+      "source_url": "https://pixelengine.ai/",
+      "original_url": "https://pixelengine.ai/images/piskelscreenshot.png?dpl=dpl_58m3ETmU4JimZbvNaJpCnqZRh5Vd",
+      "type": "official_preview",
+      "label": "Captura oficial del editor de pixel art integrado"
+    }
+  },
+  {
     "name": "Gridlover",
     "url": "https://gridlover.net/try",
     "description": "Herramienta para explorar jerarquía tipográfica y ritmo vertical.",
