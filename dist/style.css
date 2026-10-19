@@ -25,7 +25,7 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
 .header-caption{grid-column:2/-2;color:var(--muted);font-size:.875rem}
 .header-caption{border-right:1px solid var(--line)}
 .header-link{font-size:.9375rem;justify-content:space-between}
-.header-link:hover{color:var(--accent)}
+.header-link:hover,.header-caption a:hover{color:var(--accent)}
 .paco-face{display:inline-block;flex:none;width:.2em;height:.2em;color:var(--accent);overflow:visible}
 main{padding:0}
 .intro h1{display:flex;align-items:baseline;gap:.1em;white-space:nowrap;font-weight:400;font-size:clamp(1rem,5.35vw,4.75rem);line-height:1.12;letter-spacing:-.055em;margin:0;padding:clamp(2.25rem,4.5vw,5rem) var(--inset);border-bottom:1px solid var(--line)}
