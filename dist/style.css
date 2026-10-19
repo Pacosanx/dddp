@@ -222,7 +222,7 @@ footer .last-edited{text-align:right;white-space:nowrap}
 .collection>.shader-band,.tool-section>.shader-band{display:none}
 .tool-section:not([hidden]) ~ .tool-section:not([hidden])>.shader-band{display:block;border-top:1px solid var(--line)}
 .shared-shader{position:fixed;inset:0;width:100vw!important;height:100vh!important;display:block;z-index:0;pointer-events:none;clip-path:url(#paco-shader-windows)}
-.masthead .wordmark.shader-band{height:auto}
+.masthead .wordmark.shader-band{height:auto;min-height:108px}
 @media(max-width:800px){.collection>.shader-band{display:block;border-bottom:1px solid var(--line)}}
 @media(prefers-reduced-motion:reduce){.shared-shader{display:none}}
 
