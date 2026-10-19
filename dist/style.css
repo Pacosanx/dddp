@@ -134,7 +134,8 @@ footer>span:first-child{display:flex;align-items:baseline;gap:.1em;padding:2rem 
 footer p{border-right:1px solid var(--line);grid-column:2/-2;color:#929292;margin:0;padding:2rem var(--inset);display:flex;align-items:center}
 footer>a{padding:2rem var(--inset);display:flex;align-items:center}
 footer a:hover{color:var(--accent)}
-footer .font-credit{grid-column:1/-1;border-top:1px solid var(--line);padding:1.25rem var(--inset);font-size:.8125rem;color:#888}
+footer .footer-meta{grid-column:1/-1;display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:1rem;border-top:1px solid var(--line);padding:1.25rem var(--inset);font-size:.8125rem;color:#888}
+footer .last-edited{text-align:right;white-space:nowrap}
 @media(max-width:1200px){
  :root{--columns:3;--tool-columns:2;--inset:1.75rem}
  .header-caption{grid-column:2}
@@ -221,6 +222,7 @@ footer .font-credit{grid-column:1/-1;border-top:1px solid var(--line);padding:1.
 .collection>.shader-band,.tool-section>.shader-band{display:none}
 .tool-section:not([hidden]) ~ .tool-section:not([hidden])>.shader-band{display:block;border-top:1px solid var(--line)}
 .shared-shader{position:fixed;inset:0;width:100vw!important;height:100vh!important;display:block;z-index:0;pointer-events:none;clip-path:url(#paco-shader-windows)}
+.masthead .wordmark.shader-band{height:auto}
 @media(max-width:800px){.collection>.shader-band{display:block;border-bottom:1px solid var(--line)}}
 @media(prefers-reduced-motion:reduce){.shared-shader{display:none}}
 
@@ -236,5 +238,5 @@ footer .font-credit{grid-column:1/-1;border-top:1px solid var(--line);padding:1.
 /* Content stays above the shared shader even during compositor/clip updates. */
 body{isolation:isolate}
 .masthead,main{position:relative;z-index:1}
-.masthead,.intro-copy,.explore,.index,.section-heading,footer{background:var(--bg)}
+.intro-copy,.explore,.index,.section-heading,footer{background:var(--bg)}
 .intro h1{background:transparent}
