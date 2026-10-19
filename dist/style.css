@@ -111,7 +111,7 @@ main{padding:0}
 .card:focus-within .visual img{filter:brightness(1.06)}
 @media(hover:hover){.card:hover{background-color:#161616}.card:hover .visual img{filter:brightness(1.06)}}
 .card-content{display:flex;flex-direction:column;flex:1;padding:var(--inset)}
-.card-meta{display:flex;justify-content:space-between;align-items:flex-start;gap:.75rem;color:#929292;font-size:.8125rem;line-height:1.5}
+.card-meta{display:flex;justify-content:space-between;align-items:flex-start;gap:.75rem;color:#929292;font-size:.8125rem;line-height:1.5;padding-top:1.4rem;margin-top:auto}
 .card-meta>span{overflow-wrap:anywhere}
 .card-meta>span:last-child{text-align:right;flex-shrink:0;max-width:55%}
 .card h3{font-size:clamp(1.65rem,2.2vw,2.5rem);line-height:1.15;font-weight:400;letter-spacing:-.045em;margin:1.25rem 0 1.5rem;overflow-wrap:anywhere}
@@ -123,8 +123,7 @@ main{padding:0}
 .tag.access-tag{color:#d4d4d4;background:#181818}
 .tag.selected{color:#080808;border-color:var(--accent);background:var(--accent)}
 .note{font-size:.875rem;line-height:1.6;color:#aaa;padding:1.15rem 0 0;margin:0 0 1rem;border-top:1px solid var(--line)}
-.card-sources{display:flex;justify-content:space-between;gap:1rem;padding-top:1.4rem;margin-top:auto;font-size:.8125rem;color:#8e8e8e}
-.card-sources a:hover{text-decoration:underline;text-underline-offset:3px}
+
 .empty{padding:3rem var(--inset) 5rem}
 .empty h2{font-size:2.25rem;font-weight:400;letter-spacing:-.04em;line-height:1.2}
 .empty p{color:#aaa;line-height:1.6}
