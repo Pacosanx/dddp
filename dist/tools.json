@@ -2112,7 +2112,7 @@
     "description": "App para iPhone que captura objetos y escenas en 3D y permite exportar mallas, NeRFs y gaussian splats.",
     "tags": "Captura 3D · Revisar enlace",
     "category": "captura",
-    "note": "El enlace anterior llevaba a la API de imagen y video de Luma. Ahora apunta a la app de captura 3D.",
+    "note": "",
     "id": "tool-035",
     "access": [
       "Gratis"
@@ -2402,7 +2402,7 @@
     "description": "Filtros digitales de estilo glitch para video.",
     "tags": "Video · iPhone",
     "category": "movimiento",
-    "note": "Para dispositivos Apple; la ficha actual también indica compatibilidad con iPad.",
+    "note": "",
     "id": "tool-042",
     "access": [
       "Freemium"
@@ -3298,7 +3298,7 @@
     "description": "Otro listado amplio de herramientas, compartido en una planilla.",
     "tags": "Directorio · Planilla",
     "category": "recursos",
-    "note": "Se conserva como recurso externo; su contenido no está importado.",
+    "note": "",
     "id": "tool-058",
     "access": [
       "Gratis"
