@@ -3396,5 +3396,68 @@
       "width": 1600,
       "height": 1227
     }
+  },
+  {
+    "id": "tool-064",
+    "name": "beUI",
+    "url": "https://beui.dev/",
+    "description": "Biblioteca de componentes animados para React y React Native, listos para instalar desde shadcn o copiar y personalizar.",
+    "tags": "React · Componentes",
+    "category": "recursos",
+    "note": "",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Recursos"
+    ],
+    "media": [
+      "Web",
+      "Código"
+    ],
+    "connections": [
+      "React"
+    ],
+    "price_source": "https://beui.dev/",
+    "price_note": "La biblioteca pública es gratuita y tiene licencia MIT para proyectos personales y comerciales. beUI Pro se ofrece por separado.",
+    "access_checked": "2026-10-21",
+    "paco_favorite": false,
+    "capabilities": [
+      "componentes animados para React",
+      "componentes para React Native",
+      "código personalizable",
+      "componentes con Motion y Tailwind CSS"
+    ],
+    "search_terms": [
+      "componentes React",
+      "componentes animados",
+      "UI library",
+      "React Native",
+      "shadcn registry",
+      "Motion",
+      "Tailwind"
+    ],
+    "description_sources": [
+      "https://beui.dev/"
+    ],
+    "description_checked": "2026-10-21",
+    "link_check": {
+      "checked": "2026-10-21",
+      "http_status": 200,
+      "final_url": "https://beui.dev/",
+      "status": "reachable"
+    },
+    "image": {
+      "path": "images/tool-064.svg",
+      "source_url": "https://beui.dev/",
+      "original_url": "images/tool-064.svg",
+      "type": "custom_illustration",
+      "label": "Ilustración de componentes de interfaz",
+      "width": 960,
+      "height": 540
+    }
   }
 ]

@@ -604,5 +604,15 @@
     "original_url": "https://pixelengine.ai/images/piskelscreenshot.png?dpl=dpl_58m3ETmU4JimZbvNaJpCnqZRh5Vd",
     "type": "official_preview",
     "label": "Captura oficial del editor de pixel art integrado"
+  },
+  {
+    "tool": "beUI",
+    "path": "images/tool-064.svg",
+    "source_url": "https://beui.dev/",
+    "original_url": "images/tool-064.svg",
+    "type": "custom_illustration",
+    "label": "Ilustración de componentes de interfaz",
+    "width": 960,
+    "height": 540
   }
 ]

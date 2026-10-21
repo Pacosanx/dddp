@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+<title id="title">beUI: componentes animados</title>
+<desc id="desc">Ilustración de una biblioteca de componentes para interfaces: tarjetas, botones y controles animados.</desc>
+<defs>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#252925" stroke-width="1"/></pattern>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#181c19"/><stop offset="1" stop-color="#101210"/></linearGradient>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="960" height="540" fill="#0b0d0b"/>
+<rect width="960" height="540" fill="url(#grid)" opacity=".7"/>
+<circle cx="723" cy="150" r="92" fill="#dfff00" opacity=".12" filter="url(#glow)"/>
+<g stroke="#303630" stroke-width="2">
+  <rect x="112" y="91" width="376" height="358" rx="18" fill="url(#panel)"/>
+  <rect x="468" y="131" width="378" height="318" rx="18" fill="#131613"/>
+</g>
+<circle cx="143" cy="123" r="5" fill="#dfff00"/><circle cx="162" cy="123" r="5" fill="#555d55"/><circle cx="181" cy="123" r="5" fill="#555d55"/>
+<text x="148" y="191" fill="#f3f5f0" font-family="Arial,sans-serif" font-size="39" font-weight="700">beUI</text>
+<text x="148" y="222" fill="#90988f" font-family="Arial,sans-serif" font-size="16">Animated components for React</text>
+<rect x="148" y="254" width="175" height="54" rx="10" fill="#dfff00"/>
+<text x="173" y="288" fill="#10120b" font-family="Arial,sans-serif" font-size="17" font-weight="700">Get started ↗</text>
+<rect x="337" y="254" width="112" height="54" rx="10" fill="#202620" stroke="#424a42" stroke-width="2"/>
+<text x="363" y="288" fill="#e3e8e0" font-family="Arial,sans-serif" font-size="16">Preview</text>
+<path d="M148 353h278" stroke="#303630" stroke-width="2"/>
+<circle cx="163" cy="391" r="10" fill="#dfff00"/>
+<path d="M186 391h116" stroke="#747c73" stroke-width="7" stroke-linecap="round"/>
+<rect x="513" y="173" width="288" height="82" rx="14" fill="#1d221e" stroke="#343c34" stroke-width="2"/>
+<rect x="535" y="195" width="38" height="38" rx="12" fill="#dfff00" opacity=".95"/>
+<path d="M547 214h14m-7-7v14" stroke="#13160d" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M592 202h117" stroke="#d8ded6" stroke-width="8" stroke-linecap="round"/>
+<path d="M592 226h80" stroke="#636b62" stroke-width="6" stroke-linecap="round"/>
+<rect x="513" y="280" width="288" height="129" rx="14" fill="#1d221e" stroke="#343c34" stroke-width="2"/>
+<text x="538" y="315" fill="#a9b0a6" font-family="Arial,sans-serif" font-size="14">SPRING BUTTON</text>
+<rect x="538" y="337" width="143" height="48" rx="24" fill="#dfff00"/>
+<circle cx="658" cy="361" r="15" fill="#10120b"/>
+<path d="M652 361h12m-4-4 4 4-4 4" fill="none" stroke="#dfff00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="749" cy="357" r="8" fill="#737d71"/><circle cx="776" cy="357" r="8" fill="#dfff00"/>
+<path d="M749 383h27" stroke="#515a50" stroke-width="2" stroke-linecap="round"/>
+<text x="113" y="492" fill="#7f887e" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">COPY · CUSTOMIZE · ANIMATE</text>
+</svg>
