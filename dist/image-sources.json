@@ -614,5 +614,15 @@
     "label": "Ilustración de componentes de interfaz",
     "width": 960,
     "height": 540
+  },
+  {
+    "tool": "ASCII Magic",
+    "path": "images/tool-065.svg",
+    "source_url": "https://www.ascii-magic.com/app",
+    "original_url": "images/tool-065.svg",
+    "type": "custom_illustration",
+    "label": "Ilustración de efectos ASCII y dithering",
+    "width": 960,
+    "height": 540
   }
 ]

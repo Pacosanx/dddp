@@ -3459,5 +3459,68 @@
       "width": 960,
       "height": 540
     }
+  },
+  {
+    "id": "tool-065",
+    "name": "ASCII Magic",
+    "url": "https://www.ascii-magic.com/app",
+    "description": "Editor de efectos visuales para transformar imágenes y videos con ASCII, dithering, pixel art y otros estilos.",
+    "tags": "ASCII · Web",
+    "category": "imagen",
+    "note": "",
+    "access": [
+      "Freemium"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Editor",
+      "Efectos"
+    ],
+    "media": [
+      "Imagen",
+      "Video"
+    ],
+    "connections": [],
+    "price_source": "https://www.ascii-magic.com/app",
+    "price_note": "Tiene funciones gratuitas y otras de pago; revisá las condiciones actuales en la app.",
+    "access_checked": "2026-10-27",
+    "paco_favorite": false,
+    "capabilities": [
+      "efectos ASCII",
+      "dithering",
+      "transformar imágenes",
+      "transformar videos",
+      "estilos de pixel art"
+    ],
+    "search_terms": [
+      "ascii art",
+      "ascii video",
+      "ascii image",
+      "dithering",
+      "pixel art",
+      "efectos de imagen",
+      "efectos de video"
+    ],
+    "description_sources": [
+      "https://www.ascii-magic.com/app"
+    ],
+    "description_checked": "2026-10-27",
+    "link_check": {
+      "checked": "2026-10-27",
+      "http_status": 200,
+      "final_url": "https://www.ascii-magic.com/app",
+      "status": "reachable"
+    },
+    "image": {
+      "path": "images/tool-065.svg",
+      "source_url": "https://www.ascii-magic.com/app",
+      "original_url": "images/tool-065.svg",
+      "type": "custom_illustration",
+      "label": "Ilustración de efectos ASCII y dithering",
+      "width": 960,
+      "height": 540
+    }
   }
 ]
