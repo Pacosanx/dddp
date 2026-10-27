@@ -3522,5 +3522,82 @@
       "width": 1920,
       "height": 1080
     }
+  },
+  {
+    "id": "tool-066",
+    "name": "Ladybug",
+    "url": "https://app.theladybug.app/home/?campaign=direct",
+    "description": "Estudio de efectos visuales en el navegador para imágenes, video, texto y sonido, con animación, composición, profundidad 3D y más de 60 looks.",
+    "tags": "Efectos · Web",
+    "category": "imagen",
+    "note": "",
+    "access": [
+      "Freemium"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Editor",
+      "Efectos"
+    ],
+    "media": [
+      "Imagen",
+      "Video",
+      "Sonido",
+      "3D"
+    ],
+    "connections": [
+      "SVG",
+      "PNG",
+      "OBJ",
+      "GLB",
+      "GLTF",
+      "STL"
+    ],
+    "price_source": "https://theladybug.app/pricing/",
+    "price_note": "El plan gratis permite uso personal y de hobby, sin marca de agua, con exportación de video hasta 720p y límites para otros formatos. Pro ($12/mes o $120/año) habilita uso comercial y exportaciones sin límite.",
+    "access_checked": "2026-10-27",
+    "paco_favorite": false,
+    "capabilities": [
+      "efectos visuales",
+      "ASCII",
+      "dithering",
+      "risografía",
+      "semitonos",
+      "composición por capas",
+      "animación",
+      "reactividad al sonido",
+      "tracking",
+      "profundidad 3D"
+    ],
+    "search_terms": [
+      "efectos para imágenes",
+      "efectos para video",
+      "ASCII",
+      "dithering",
+      "animación visual",
+      "composición",
+      "efectos reactivos a la música",
+      "3D visual"
+    ],
+    "description_sources": [
+      "https://theladybug.app/",
+      "https://theladybug.app/pricing/"
+    ],
+    "description_checked": "2026-10-27",
+    "link_check": {
+      "checked": "2026-10-27",
+      "http_status": 200,
+      "final_url": "https://app.theladybug.app/home/?campaign=direct",
+      "status": "reachable"
+    },
+    "image": {
+      "path": "https://theladybug.app/assets/home/hero-film3-poster.jpg",
+      "source_url": "https://theladybug.app/",
+      "original_url": "https://theladybug.app/assets/home/hero-film3-poster.jpg",
+      "type": "official_preview",
+      "label": "Fotograma de presentación de Ladybug"
+    }
   }
 ]
