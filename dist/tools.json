@@ -3514,13 +3514,13 @@
       "status": "reachable"
     },
     "image": {
-      "path": "images/tool-065.svg",
+      "path": "images/tool-065.webp",
       "source_url": "https://www.ascii-magic.com/app",
-      "original_url": "images/tool-065.svg",
-      "type": "custom_illustration",
-      "label": "Ilustración de efectos ASCII y dithering",
-      "width": 960,
-      "height": 540
+      "original_url": "https://www.ascii-magic.com/app",
+      "type": "user_provided_screenshot",
+      "label": "Captura de pantalla de ASCII Magic",
+      "width": 1920,
+      "height": 1080
     }
   }
 ]
