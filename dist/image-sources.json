@@ -624,5 +624,13 @@
     "label": "Captura de pantalla de ASCII Magic",
     "width": 1920,
     "height": 1080
+  },
+  {
+    "tool": "Ladybug",
+    "path": "https://theladybug.app/assets/home/hero-film3-poster.jpg",
+    "source_url": "https://theladybug.app/",
+    "original_url": "https://theladybug.app/assets/home/hero-film3-poster.jpg",
+    "type": "official_preview",
+    "label": "Fotograma de presentación de Ladybug"
   }
 ]
