@@ -3599,5 +3599,83 @@
       "type": "official_preview",
       "label": "Fotograma de presentación de Ladybug"
     }
+  },
+  {
+    "id": "tool-067",
+    "name": "Pryzm",
+    "url": "https://pryzm.design/studio",
+    "description": "Estudio web para crear fondos y loops animados con gradientes, fotos, patrones y efectos; exporta PNG, video o código para sitios web.",
+    "tags": "Fondos · Web",
+    "category": "imagen",
+    "note": "",
+    "access": [
+      "Freemium"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Editor",
+      "Generador"
+    ],
+    "media": [
+      "Imagen",
+      "Video",
+      "Web"
+    ],
+    "connections": [
+      "Framer",
+      "React",
+      "HTML",
+      "PNG",
+      "MP4",
+      "WebM",
+      "AV1"
+    ],
+    "price_source": "https://pryzm.design/",
+    "price_note": "El plan gratis incluye el estudio completo, exportación PNG en tamaño de vista previa sin marca de agua y video con marca de agua. Pro ($9/mes) suma exportaciones de mayor resolución, video sin marca de agua, loops más largos e integración como código.",
+    "access_checked": "2026-10-30",
+    "paco_favorite": false,
+    "capabilities": [
+      "fondos visuales",
+      "gradientes",
+      "texturas",
+      "patrones",
+      "dithering",
+      "halftone",
+      "ASCII",
+      "glass distortion",
+      "animación",
+      "loops de video",
+      "exportación como código"
+    ],
+    "search_terms": [
+      "crear fondos para sitios web",
+      "gradientes",
+      "fondos animados",
+      "texturas",
+      "dithering",
+      "halftone",
+      "ASCII",
+      "exportar fondo como código"
+    ],
+    "description_sources": [
+      "https://pryzm.design/studio",
+      "https://pryzm.design/"
+    ],
+    "description_checked": "2026-10-30",
+    "link_check": {
+      "checked": "2026-10-30",
+      "http_status": 200,
+      "final_url": "https://pryzm.design/studio",
+      "status": "reachable"
+    },
+    "image": {
+      "path": "https://qbbeqzzqoylaziguwfjx.supabase.co/storage/v1/object/public/gallery-thumbs/24a771fc-d9cd-49ac-8e46-c2703c5fb79f.png",
+      "source_url": "https://pryzm.design/gallery/bright-spark",
+      "original_url": "https://qbbeqzzqoylaziguwfjx.supabase.co/storage/v1/object/public/gallery-thumbs/24a771fc-d9cd-49ac-8e46-c2703c5fb79f.png",
+      "type": "official_gallery_preview",
+      "label": "Bright Spark, un fondo de gradiente y vidrio con grano"
+    }
   }
 ]
