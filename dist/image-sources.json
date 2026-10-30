@@ -632,5 +632,13 @@
     "original_url": "https://theladybug.app/assets/home/hero-film3-poster.jpg",
     "type": "official_preview",
     "label": "Fotograma de presentación de Ladybug"
+  },
+  {
+    "tool": "Pryzm",
+    "path": "https://qbbeqzzqoylaziguwfjx.supabase.co/storage/v1/object/public/gallery-thumbs/24a771fc-d9cd-49ac-8e46-c2703c5fb79f.png",
+    "source_url": "https://pryzm.design/gallery/bright-spark",
+    "original_url": "https://qbbeqzzqoylaziguwfjx.supabase.co/storage/v1/object/public/gallery-thumbs/24a771fc-d9cd-49ac-8e46-c2703c5fb79f.png",
+    "type": "official_gallery_preview",
+    "label": "Bright Spark, un fondo de gradiente y vidrio con grano"
   }
 ]
