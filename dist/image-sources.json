@@ -627,11 +627,11 @@
   },
   {
     "tool": "Ladybug",
-    "path": "https://theladybug.app/assets/home/hero-film3-poster.jpg",
-    "source_url": "https://theladybug.app/",
-    "original_url": "https://theladybug.app/assets/home/hero-film3-poster.jpg",
-    "type": "official_preview",
-    "label": "Fotograma de presentación de Ladybug"
+    "path": "images/tool-066.png",
+    "source_url": "user-provided",
+    "original_url": "codex-clipboard-abb3fb6c-8e01-42fe-a8eb-c84119dd206a.png",
+    "type": "user_provided_screenshot",
+    "label": "Captura de pantalla de Ladybug"
   },
   {
     "tool": "Pryzm",
