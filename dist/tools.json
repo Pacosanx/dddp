@@ -3679,5 +3679,66 @@
       "type": "official_gallery_preview",
       "label": "Bright Spark, un fondo de gradiente y vidrio con grano"
     }
+  },
+  {
+    "name": "Data Visualisation Catalogue",
+    "url": "https://datavizcatalogue.com/index.html",
+    "description": "Referencia de gráficos y diagramas con descripciones, usos, variaciones y criterios para elegir cómo visualizar datos.",
+    "tags": "Visualización de datos · Referencias",
+    "category": "recursos",
+    "note": "",
+    "id": "tool-068",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Referencias"
+    ],
+    "media": [
+      "Imagen",
+      "Texto"
+    ],
+    "connections": [],
+    "price_source": "https://datavizcatalogue.com/about.html",
+    "price_note": "El catálogo se consulta gratis; los íconos descargables se venden por separado.",
+    "access_checked": "2026-11-02",
+    "paco_favorite": false,
+    "capabilities": [
+      "tipos de gráficos",
+      "diagramas",
+      "selección de visualizaciones",
+      "referencia de visualización de datos"
+    ],
+    "search_terms": [
+      "visualización de datos",
+      "data visualization",
+      "data viz",
+      "tipos de gráficos",
+      "diagramas",
+      "chart types",
+      "selección de gráficos",
+      "dataviz catalogue"
+    ],
+    "description_sources": [
+      "https://datavizcatalogue.com/about.html",
+      "https://datavizcatalogue.com/index.html"
+    ],
+    "description_checked": "2026-11-02",
+    "link_check": {
+      "checked": "2026-11-02",
+      "http_status": 200,
+      "final_url": "https://datavizcatalogue.com/index.html",
+      "status": "reachable"
+    },
+    "image": {
+      "path": "https://datavizcatalogue.com/images/buttons/trigram.png",
+      "source_url": "https://datavizcatalogue.com/index.html",
+      "original_url": "https://datavizcatalogue.com/images/buttons/trigram.png",
+      "type": "official_icon",
+      "label": "Marca gráfica de Data Visualisation Catalogue"
+    }
   }
 ]
