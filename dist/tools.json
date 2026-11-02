@@ -3734,11 +3734,13 @@
       "status": "reachable"
     },
     "image": {
-      "path": "https://datavizcatalogue.com/images/buttons/trigram.png",
+      "path": "images/tool-068.png",
       "source_url": "https://datavizcatalogue.com/index.html",
-      "original_url": "https://datavizcatalogue.com/images/buttons/trigram.png",
-      "type": "official_icon",
-      "label": "Marca gráfica de Data Visualisation Catalogue"
+      "original_url": "codex-clipboard-12e9d656-0c13-4bfc-8ce0-371780bac12c.png",
+      "type": "user_provided_screenshot",
+      "label": "Selección de gráficos y diagramas del catálogo",
+      "width": 1881,
+      "height": 765
     }
   }
 ]

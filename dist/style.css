@@ -239,3 +239,5 @@ body{isolation:isolate}
 .masthead,main{position:relative;z-index:1}
 .intro-copy,.explore,.index,.section-heading,footer{background:var(--bg)}
 .intro h1{background:transparent}
+
+#tool-068 .visual img{object-fit:contain;background:#fff}
