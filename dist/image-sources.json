@@ -650,5 +650,15 @@
     "label": "Selección de gráficos y diagramas del catálogo",
     "width": 1881,
     "height": 765
+  },
+  {
+    "tool": "Chimera Vocal Synth",
+    "path": "images/tool-069.svg",
+    "source_url": "https://github.com/jamesondh/chimera-vocal-synth",
+    "original_url": "images/tool-069.svg",
+    "type": "custom_illustration",
+    "label": "Ilustración de síntesis vocal física",
+    "width": 960,
+    "height": 540
   }
 ]

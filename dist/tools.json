@@ -3742,5 +3742,68 @@
       "width": 1881,
       "height": 765
     }
+  },
+  {
+    "name": "Chimera Vocal Synth",
+    "url": "https://chimera-vocal-synth.vercel.app/",
+    "description": "Sintetizador vocal físico en el navegador para hablar, cantar y hacer beatbox; modela el tracto vocal en tiempo real.",
+    "tags": "Voz · Síntesis",
+    "category": "movimiento",
+    "note": "",
+    "id": "tool-069",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Generador",
+      "Simulación"
+    ],
+    "media": [
+      "Sonido",
+      "Texto"
+    ],
+    "connections": [
+      "MIDI"
+    ],
+    "price_source": "https://github.com/jamesondh/chimera-vocal-synth",
+    "price_note": "App web gratuita; el proyecto está disponible bajo licencia MIT.",
+    "access_checked": "2026-11-08",
+    "paco_favorite": false,
+    "capabilities": [
+      "síntesis vocal física",
+      "voz sintética",
+      "texto a voz",
+      "canto sintetizado",
+      "beatbox",
+      "simulación del tracto vocal",
+      "vocalizaciones animales"
+    ],
+    "search_terms": [
+      "sintetizador vocal",
+      "síntesis de voz",
+      "text to speech",
+      "synth vocal",
+      "synthesizer voice",
+      "cantar con sintetizador",
+      "beatbox",
+      "Web MIDI"
+    ],
+    "description_sources": [
+      "https://chimera-vocal-synth.vercel.app/",
+      "https://github.com/jamesondh/chimera-vocal-synth"
+    ],
+    "description_checked": "2026-11-08",
+    "image": {
+      "path": "images/tool-069.svg",
+      "source_url": "https://github.com/jamesondh/chimera-vocal-synth",
+      "original_url": "images/tool-069.svg",
+      "type": "custom_illustration",
+      "label": "Ilustración de síntesis vocal física",
+      "width": 960,
+      "height": 540
+    }
   }
 ]
