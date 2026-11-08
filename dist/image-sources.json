@@ -653,12 +653,12 @@
   },
   {
     "tool": "Chimera Vocal Synth",
-    "path": "images/tool-069.svg",
-    "source_url": "https://github.com/jamesondh/chimera-vocal-synth",
-    "original_url": "images/tool-069.svg",
-    "type": "custom_illustration",
-    "label": "Ilustración de síntesis vocal física",
-    "width": 960,
-    "height": 540
+    "path": "images/tool-069.png",
+    "source_url": "https://chimera-vocal-synth.vercel.app/",
+    "original_url": "codex-clipboard-d199522a-4f62-4c67-83f0-90b469fcc932.png",
+    "type": "user_provided_screenshot",
+    "label": "Interfaz de síntesis vocal y tracto vocal de Chimera",
+    "width": 1919,
+    "height": 1079
   }
 ]
