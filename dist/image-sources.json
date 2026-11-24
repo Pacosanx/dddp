@@ -660,5 +660,13 @@
     "label": "Interfaz de síntesis vocal y tracto vocal de Chimera",
     "width": 1919,
     "height": 1079
+  },
+  {
+    "tool": "Babylon.js Sandbox",
+    "path": "https://miro.medium.com/v2/resize%3Afit%3A1400/1%2AzNfiM1Tnc0ST9whjMDRDrw.png",
+    "source_url": "https://babylonjs.medium.com/exporting-3d-content-for-babylon-js-76cb71a2df01",
+    "original_url": "https://miro.medium.com/v2/resize%3Afit%3A1400/1%2AzNfiM1Tnc0ST9whjMDRDrw.png",
+    "type": "official_preview",
+    "label": "Captura del Sandbox de Babylon.js con un modelo 3D"
   }
 ]

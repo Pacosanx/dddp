@@ -3805,5 +3805,73 @@
       "width": 1919,
       "height": 1079
     }
+  },
+  {
+    "name": "Babylon.js Sandbox",
+    "url": "https://sandbox.babylonjs.com/",
+    "description": "Visor y depurador 3D en el navegador para previsualizar modelos, inspeccionar mallas, materiales y animaciones, y probar iluminación.",
+    "tags": "Visor 3D · Web",
+    "category": "3d",
+    "note": "",
+    "id": "tool-070",
+    "access": [
+      "Gratis"
+    ],
+    "environment": [
+      "Navegador"
+    ],
+    "roles": [
+      "Visor"
+    ],
+    "media": [
+      "3D",
+      "Imagen"
+    ],
+    "connections": [
+      "glTF",
+      "GLB",
+      "OBJ",
+      "STL"
+    ],
+    "price_source": "https://doc.babylonjs.com/toolsAndResources/sandbox",
+    "price_note": "Herramienta web pública y gratuita de Babylon.js; no indica planes de pago.",
+    "access_checked": "2026-11-24",
+    "paco_favorite": false,
+    "capabilities": [
+      "visualización 3D",
+      "inspección de modelos",
+      "inspector de mallas",
+      "inspector de materiales",
+      "reproducción de animaciones",
+      "prueba de iluminación y entornos",
+      "depuración 3D"
+    ],
+    "search_terms": [
+      "visor 3D",
+      "gltf viewer",
+      "glb viewer",
+      "visualizar modelos 3D",
+      "inspeccionar modelos",
+      "babylon sandbox",
+      "revisar animaciones 3D"
+    ],
+    "description_sources": [
+      "https://doc.babylonjs.com/toolsAndResources/sandbox",
+      "https://sandbox.babylonjs.com/"
+    ],
+    "description_checked": "2026-11-24",
+    "link_check": {
+      "checked": "2026-11-24",
+      "http_status": 200,
+      "final_url": "https://sandbox.babylonjs.com/",
+      "status": "reachable"
+    },
+    "image": {
+      "path": "https://miro.medium.com/v2/resize%3Afit%3A1400/1%2AzNfiM1Tnc0ST9whjMDRDrw.png",
+      "source_url": "https://babylonjs.medium.com/exporting-3d-content-for-babylon-js-76cb71a2df01",
+      "original_url": "https://miro.medium.com/v2/resize%3Afit%3A1400/1%2AzNfiM1Tnc0ST9whjMDRDrw.png",
+      "type": "official_preview",
+      "label": "Captura del Sandbox de Babylon.js con un modelo 3D"
+    }
   }
 ]
